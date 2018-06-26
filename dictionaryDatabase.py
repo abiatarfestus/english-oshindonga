@@ -13,7 +13,7 @@ nouns = {'lightning': 'olwaadhi', 'lightnings': 'oombadhi', 'scar': 'oshaadhi', 
          'eambidhidho', 'America': 'Amerika', 'American': 'Omwaamerika', 'Americans': 'Aamerika', 'secretary':
          "amushanga", 'secretaries': 'oohamushanga', 'child': 'okanona', 'children': 'uunona', 'daughter':
          'omwanakadhona', 'daughters': 'oyanakadhona', 'son': ['omwanamati'], 'sons': ['oyanamati'],
-         'African Ebony': ['omwandi'], 'African Ebonys': ['oomwandi'],'African Ebonies': ['oomwandi'],
+         'African Ebony': ['omwandi'], 'African Ebonys': ['oomwandi'], 'African Ebonies': ['oomwandi'],
          'fermentation': ['olwani'], 'ringworm': ['eankadhi'], 'umbilical cord': ['okaankonga'],
          'umbilical cords': ['uuankonga'], 'April': ['Apilili'], 'hide': ['ombanza'], 'pharmacy': ['oapoteka'],
          'pharmacies': ['ooapoteka'], 'apple': ['oshiyapula'], 'apples': ['iiyapula'], 'udder': ['oshawo'],
@@ -71,8 +71,8 @@ nouns = {'lightning': 'olwaadhi', 'lightnings': 'oombadhi', 'scar': 'oshaadhi', 
          'turns': 'omalufo', 'opportunity': 'olufo',
          'opportunities': 'oompito', 'foreman': 'folomana', 'foremen': 'oofolomana', 'boss': 'omuhona',
          'bosses': 'aahona', 'furrow': 'ofoola', 'furrows': 'oofoola', 'form': 'ofooloma', 'forms': 'oofooloma',
-         'winter': 'okufu', 'winter time': 'ethimbo lyokufu', 'a hypocrite': 'omufudhime', 'hypocrites':'aafudhime',
-         'is a hypocrite': 'omufudhime', 'are hypocrites': 'aafudhime', 'the hypocrites':'aafudhime',
+         'winter': 'okufu', 'winter time': 'ethimbo lyokufu', 'a hypocrite': 'omufudhime', 'hypocrites': 'aafudhime',
+         'is a hypocrite': 'omufudhime', 'are hypocrites': 'aafudhime', 'the hypocrites': 'aafudhime',
          'breath': 'omufudho', 'holiday': 'efudho', 'holidays': 'omafudho', 'break': 'okafudho',
          'playtime': 'okafudho', 'hair': 'omafufu',
          'a greedy person': 'omufukentu', 'the bride': 'omufuko', 'a bride': 'omufuko', 'brides': 'aafuko',
@@ -124,14 +124,13 @@ nouns = {'lightning': 'olwaadhi', 'lightnings': 'oombadhi', 'scar': 'oshaadhi', 
          ['amoniaka'], 'ammonium sulphate': ['amoniumsulfate'], 'ammunition': ['oshuumbithi(ii-), oshiyumbithi(ii -)'],
          'amnesty': ['esohenda'], 'amount': ['omwaalu(omiyalu)'], 'amulet': ['oshigegeti(ii-)'], 'analysis':
          ['evongokonono(oma -)'], 'anatomy': ['oanatomi'], 'anatree': ['(acacia albida)', 'omuyele(omi-)'],
-         'acacia albida': ['omuyele(omi -)'], 'ancestor': ['epipi(oma-)', 'omukulugonale (aa-)',],
+         'acacia albida': ['omuyele(omi -)'], 'ancestor': ['epipi(oma-)', 'omukulugonale (aa-)'],
          'ancestral spirits': ['aathithi'], 'angular point': ['ekuvu (oma-)'], 'animal': ['oshinamwenyo'],
          'wild animal': ['oshiyamakuti'], 'angel': ['omuyengeli (aa-)'], 'angle':
          ['okolonela (oo-)', 'ekuvu (oma-)', 'onkuvu (oo-)'], 'Anglican church': ['ongeleka yaAngilikana'],
          'anchor': ['ohangela(oo-)']
 
-
-}
+         }
 
 
 verbs = {'find': ['adha'], 'found': ['adhika'], 'shine': ['ota dhi adhima'], 'shines': ['oha yi adhima'], 'shining':
@@ -142,8 +141,8 @@ verbs = {'find': ['adha'], 'found': ['adhika'], 'shine': ['ota dhi adhima'], 'sh
          'overheard': 'okwa ambela', 'support': 'yambidhidha', 'supports': 'yambidhidha', 'supported': 'yambidhidhwa',
          'all of you': 'amuhe', 'patch': 'andeka', 'patches': 'andeke', 'wait': 'tegelela', 'waits': 'tegelele',
          'spread out': 'aneka', 'throw': 'umba', 'throws': 'umbu', 'he threw': 'okwa umbu', 'she threw': 'okwa umbu',
-         'she has thrown': 'okwa umba', 'he has thrown': 'okwa umba', 'stick': 'dhama', 'stuck': 'dhama', 'dislocate'
-         : 'dhomuka', 'dislocates': 'dhomoka', 'dislocated': 'okwa dhomoka', 'play': 'dhana', 'plays': 'dhana',
+         'she has thrown': 'okwa umba', 'he has thrown': 'okwa umba', 'stick': 'dhama', 'stuck': 'dhama', 'dislocate':
+         'dhomuka', 'dislocates': 'dhomoka', 'dislocated': 'okwa dhomoka', 'play': 'dhana', 'plays': 'dhana',
          'played': 'okwa dhana', 'shiver': 'kakama', 'shivers': 'kakama', 'tremble': 'kakama', 'trembels': 'kakama',
          'hit': 'dhenga', 'hits': 'dhenga', 'hitting': 'ota dhenge', 'deceive': 'dhenga iihwa pomesho',
          'train': 'dheula',
@@ -271,7 +270,7 @@ prepositions = {'about': ['search about', 'petapeta', 'thimbilathjmbjja (e)'], '
                 'Thikama pooha dhekuma.'], 'among': ['mokati[k(a -)]'], 'amongst': ['mokati']
                 }
 
-adverbs = {'only': 'ageke', 'everywhere': 'apehe', 'please': 'alikana', 'apparently': 'aniwa','yes': 'eeno',
+adverbs = {'only': 'ageke', 'everywhere': 'apehe', 'please': 'alikana', 'apparently': 'aniwa', 'yes': 'eeno',
            'no': 'aawe', 'accurately': ['lela', 'naanaa'], 'accidentally': ['papuko', 'ohaluka', 'pashaadhilila'],
            'again': ['ishewe', 'natango'], 'ahead': ['komeho', 'Look ahead, do not look back.', 'Tala komeho, inoo\
            tala konima.'], 'alphabetically': ['paambeendee', 'pahaambeendee'], 'although':
@@ -308,6 +307,3 @@ phrases = {'according to': ['pa-', 'according to nature = ', 'paunshitwe'], 'try
 # if it's short passage, look for passage content from dictionary
 # if it's a long passage, look for dictionary content (phrase and word(starting with the longest)) from the passage
 # search only withing the remaining untranslated elements?
-
-
-
