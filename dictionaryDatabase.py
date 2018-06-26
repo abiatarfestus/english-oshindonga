@@ -246,26 +246,7 @@ verbs = {'find': ['adha'], 'found': ['adhika'], 'shine': ['ota dhi adhima'], 'sh
          'I aim at the head of the bird with the gun', 'Otandi odho komutse gwokadhila nokandjembo'], 'analyse':
          ['(sentence)', 'vongokonona'], 'anchor': ['hangela'],
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-}
+         }
 
 adjectives = {'all': 'adhihe', 'delirious': 'adhuuka', 'whole': 'aguhe', 'supreme': 'yo pombanda', 'two': ['mbali'],
               'wide': 'andjuka', 'efficient': 'omudhiginini', 'heavy': 'odhigu', 'difficult': 'oshidhigu', 'smooth':
@@ -318,7 +299,6 @@ conjunctions = {'and': ['e', 'na', 'He broke into the house and took one stole o
 
 phrases = {'according to': ['pa-', 'according to nature = ', 'paunshitwe'], 'try on': ['iyeleka'], 'on account of':
            ['molwa-'],
-
            }
 
 # for key in nouns_things:
