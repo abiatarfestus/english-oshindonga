@@ -97,7 +97,7 @@ nouns = {'lightning': 'olwaadhi', 'lightnings': 'oombadhi', 'scar': 'oshaadhi', 
          'donors': 'aagandjishali', 'a donor': 'omugandjishali', 'the donors': 'aagandjishali', 'the handing over':
          'egandjo', 'a handing over': 'egandjo', 'donation': 'iigandjwa', 'domations': 'iigandjwa', 'gifts': 'omagano',
          'presents': 'omagano', 'talents': 'omagano', 'abate': ['lota (o)'], 'abattoir': ['okatomeno (uu-)'],
-         'abdomen': ['omumpanya (omi-)', 'oshinena (ii—)'], 'abduction': ['embembopo'], 'ability': ['evulo (oma-)'],
+         'abdomen': ['omumpanya (omi-)', 'oshinena (ii-)'], 'abduction': ['embembopo'], 'ability': ['evulo (oma-)'],
          'able': ['pondola', 'The man is able to build his house=', 'Omusamane okwe shi pondola okutunga egumbo lye'],
          'abscess': ['oshitumbuka (ii-)'], 'absence': ['uukeepo', 'efaulo'], 'abundance': ['(food)', 'eloolo'],
          'academy': ['oakademi'], 'accent': ['oaksende (oo-)'], 'accomodation':  ['ekalwahala'], 'accountability':
@@ -129,6 +129,47 @@ nouns = {'lightning': 'olwaadhi', 'lightnings': 'oombadhi', 'scar': 'oshaadhi', 
          'wild animal': ['oshiyamakuti'], 'angel': ['omuyengeli (aa-)'], 'angle':
          ['okolonela (oo-)', 'ekuvu (oma-)', 'onkuvu (oo-)'], 'Anglican church': ['ongeleka yaAngilikana'],
          'anchor': ['ohangela(oo-)']
+
+ankle onyugu (oo-)
+annex V. (enda ko
+annexation etendoko
+announce imeleta, ilombola. The man announced himself at the office. Omulumentu okwl imt kombelewa.
+annoy hinda(i). yemateka(e)
+annual function okatuthihulitho
+anoint gwayeka (e)
+another -kwawo, -Iwe
+answer v. yamukula
+answer n. eyamukulo (oma-)
+ant ondhindhi (oo-), eteta (oma-). big brown # emboombolo (orna-). small black # ombuka (oo-), okacihidhi (uu-)
+ant-bear: African # eyamayarna (oma-) ant-eater: scaly # ongaka (oo-)
+ant-hill oshaanda (iiyanda), oshiyanda (ii-) anthrax (in caWe) ombuiwa
+antibiotic oshidhipagimbuto (dhuuvu) (ii-) anticipate, hope tegamena (e)
+anticipation etegameno
+anus onufu (oo-)
+anxiety omahwilili, uuhwenge
+anxiously nyulukuta
+anvil oshikalo (ii-)
+any kehe
+anyone kehe gumwe
+anything kehe shimwe
+anyway ando
+aorta aorta
+ape ondjima (oo-)
+apoplexy ombanda1 esilombanda
+apparatus oaparate (oo-)
+apparition oshihehelela (ii-), oshikwafa (ii-) appeal v. tsikilitha ompangu
+appeal n. etsikilompangu
+appear holoka. # suddenly mbanduka, uluka appearance eholoko (oma-)
+appearance (human) ondjelo, eholoko, ombelo.
+She has a beaurful appearance. Oku na ondjelo ombwanawa.
+appendicitis okiimili
+appendix okiimili (cx>), oshigwedhelwako (ii-) appetite omwamwa. desire for meat omwamwa
+gwonyama
+applaud hakela (e), pandula
+applause ehakelo, ekugililo
+apple oshiapula, oshiyapula (ii-)
+application eindilo (oma-). # form ofolomaindilO
+
 
          }
 
