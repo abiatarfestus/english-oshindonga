@@ -128,18 +128,17 @@ nouns = {'lightning': 'olwaadhi', 'lightnings': 'oombadhi', 'scar': 'oshaadhi', 
          'ancestral spirits': ['aathithi'], 'angular point': ['ekuvu (oma-)'], 'animal': ['oshinamwenyo'],
          'wild animal': ['oshiyamakuti'], 'angel': ['omuyengeli (aa-)'], 'angle':
          ['okolonela (oo-)', 'ekuvu (oma-)', 'onkuvu (oo-)'], 'Anglican church': ['ongeleka yaAngilikana'],
-         'anchor': ['ohangela(oo-)']
-
-ankle onyugu (oo-)
+         'anchor': ['ohangela(oo-)'], 'ankle': ['onyugu (oo-)'], 'annexation': ['etendoko'], 'annual function':
+         ['okatuthihulitho'], 'answer': ['eyamukulo (oma-)']
 annex V. (enda ko
-annexation etendoko
+
 announce imeleta, ilombola. The man announced himself at the office. Omulumentu okwl imt kombelewa.
 annoy hinda(i). yemateka(e)
-annual function okatuthihulitho
+
 anoint gwayeka (e)
 another -kwawo, -Iwe
 answer v. yamukula
-answer n. eyamukulo (oma-)
+
 ant ondhindhi (oo-), eteta (oma-). big brown # emboombolo (orna-). small black # ombuka (oo-), okacihidhi (uu-)
 ant-bear: African # eyamayarna (oma-) ant-eater: scaly # ongaka (oo-)
 ant-hill oshaanda (iiyanda), oshiyanda (ii-) anthrax (in caWe) ombuiwa
