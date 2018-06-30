@@ -308,7 +308,7 @@ pronouns = {'they': 'yo', 'he': 'ye', 'she': 'ye', 'they are': 'ota ya', 'we are
 interjections = {'oh': 'akutu', 'poor thing': 'akutu hewa'}
 
 determiners = {'all': ['ayehe', 'ayihe', 'adhihe', 'agehe', 'all the people = ', 'aantu ayehe.', 'all chairs = ',
-               'iipundi ayihe'], 'two': ['yaali'], 'another': ['-kwawo', '-lwe']
+               'iipundi ayihe'], 'two': ['yaali'], 'another': ['-kwawo', '-lwe'],
                }
 
 particles = {'no': 'aawe'}
