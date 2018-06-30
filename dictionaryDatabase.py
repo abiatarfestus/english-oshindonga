@@ -318,7 +318,7 @@ conjunctions = {'and': ['e', 'na', 'He broke into the house and took one stole o
                 }
 
 phrases = {'according to': ['pa-', 'according to nature = ', 'paunshitwe'], 'try on': ['iyeleka'], 'on account of':
-           ['molwa-'],
+           ['molwa-']
            }
 
 # for key in nouns_things:
