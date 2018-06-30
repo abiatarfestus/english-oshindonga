@@ -277,7 +277,7 @@ adjectives = {'all': 'adhihe', 'delirious': 'adhuuka', 'whole': 'aguhe', 'suprem
               ['omufuuli'], 'absent': ['ke po', 'a faula'], 'accidental': ['shopapuko'], 'aesthetic':
               ['uuwopali (omau-)'], 'alkaline': ['paalikali', 'pashimongwa'], 'angry': ['geya (e)'], 'already':
               ['nokuli', 'I took it from my pocket already. = ' 'Onde yi hili mo nokuli mondjato.'], 'lternative':
-              ['epingeno(oma -)'], 'amazing': ['-kuinithi'], 'ancient': ['-kulu'],
+              ['epingeno(oma -)'], 'amazing': ['-kuinithi'], 'ancient': ['-kulu']
 
               }
 
