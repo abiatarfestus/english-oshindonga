@@ -263,7 +263,7 @@ verbs = {'find': ['adha'], 'found': ['adhika'], 'shine': ['ota dhi adhima'], 'sh
          ['imeleta', 'ilombola', 'The man announced himself at the office. = ',
           'Omulumentu okwi imeleta kombelewa.'], 'annoy': ['hinda(i)', 'yemateka(e)'], 'anoint': ['gwayeka(e)'],
          'answer': ['yamukula'], 'appeal': ['tsikilitha ompangu'], 'appear': ['holoka', '(appear suddenly = )',
-         'mbanduka', 'uluka'], 'applaud': ['hakela (e)', 'pandula']
+         'mbanduka', 'uluka'], 'applaud': ['hakela (e)', 'pandula'],
 
 
          }
