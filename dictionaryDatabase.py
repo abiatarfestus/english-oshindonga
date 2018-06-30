@@ -4,7 +4,7 @@ nouns = {'lightning': 'olwaadhi', 'lightnings': 'oombadhi', 'scar': 'oshaadhi', 
          'color': 'olwaala', 'colours': 'omalwaala', 'colors': 'omalwaala', 'palm': 'oshaale', 'palms': 'iiyale',
          'palm-frond': 'olwaale', 'palm-fronds': 'oombale', 'doctor': 'ndohotola', 'doctors': 'eendohotola',
          'healer': 'omwaaludhi', 'healers': 'aayaludhi', 'nurse': 'omupangi', 'nurses': 'aapangi',
-         'medical practitioner': 'omupangi', "medical practitioners": 'aapangi', 'anthill': 'oshaanda',
+         'medical practitioner': 'omupangi', "medical practitioners": 'aapangi',
          'anthills': 'iiyanda', 'darn': 'oshaando', 'darns': 'iiyando', 'glory': 'eyadhimo', 'splendour':
          'eyadhimo', 'splendor': 'eyadhimo', 'deliriousness': 'eadhuko', 'scabies': 'olwaga', 'August':
          'Auguste', 'court': 'ompangu', 'opening': 'omwaka', 'open space': 'ehalala', 'grabbing': 'eakulo',
@@ -16,7 +16,7 @@ nouns = {'lightning': 'olwaadhi', 'lightnings': 'oombadhi', 'scar': 'oshaadhi', 
          'African Ebony': ['omwandi'], 'African Ebonys': ['oomwandi'], 'African Ebonies': ['oomwandi'],
          'fermentation': ['olwani'], 'ringworm': ['eankadhi'], 'umbilical cord': ['okaankonga'],
          'umbilical cords': ['uuankonga'], 'April': ['Apilili'], 'hide': ['ombanza'], 'pharmacy': ['oapoteka'],
-         'pharmacies': ['ooapoteka'], 'apple': ['oshiyapula'], 'apples': ['iiyapula'], 'udder': ['oshawo'],
+         'pharmacies': ['ooapoteka'], 'apples': ['iiyapula'], 'udder': ['oshawo'],
          'udders': ['iishawo'], 'December': ['Desemba'], 'player': ['omudhani'], 'players': ['aadhani'],
          'dancer': ['omundanisi'], 'dancers': ['aandanisi'], 'game': ['uudhano'], 'games': ['omaudhano'], 'toy':
          ['okadhanitho'], 'boxer': ['omudhengingonyo'], 'boxers': ['aadhengingonyo'], 'beating': ['edhengo'],
@@ -129,45 +129,20 @@ nouns = {'lightning': 'olwaadhi', 'lightnings': 'oombadhi', 'scar': 'oshaadhi', 
          'wild animal': ['oshiyamakuti'], 'angel': ['omuyengeli (aa-)'], 'angle':
          ['okolonela (oo-)', 'ekuvu (oma-)', 'onkuvu (oo-)'], 'Anglican church': ['ongeleka yaAngilikana'],
          'anchor': ['ohangela(oo-)'], 'ankle': ['onyugu (oo-)'], 'annexation': ['etendoko'], 'annual function':
-         ['okatuthihulitho'], 'answer': ['eyamukulo (oma-)']
-annex V. (enda ko
-
-announce imeleta, ilombola. The man announced himself at the office. Omulumentu okwl imt kombelewa.
-annoy hinda(i). yemateka(e)
-
-anoint gwayeka (e)
-another -kwawo, -Iwe
-answer v. yamukula
-
-ant ondhindhi (oo-), eteta (oma-). big brown # emboombolo (orna-). small black # ombuka (oo-), okacihidhi (uu-)
-ant-bear: African # eyamayarna (oma-) ant-eater: scaly # ongaka (oo-)
-ant-hill oshaanda (iiyanda), oshiyanda (ii-) anthrax (in caWe) ombuiwa
-antibiotic oshidhipagimbuto (dhuuvu) (ii-) anticipate, hope tegamena (e)
-anticipation etegameno
-anus onufu (oo-)
-anxiety omahwilili, uuhwenge
-anxiously nyulukuta
-anvil oshikalo (ii-)
-any kehe
-anyone kehe gumwe
-anything kehe shimwe
-anyway ando
-aorta aorta
-ape ondjima (oo-)
-apoplexy ombanda1 esilombanda
-apparatus oaparate (oo-)
-apparition oshihehelela (ii-), oshikwafa (ii-) appeal v. tsikilitha ompangu
-appeal n. etsikilompangu
-appear holoka. # suddenly mbanduka, uluka appearance eholoko (oma-)
-appearance (human) ondjelo, eholoko, ombelo.
-She has a beaurful appearance. Oku na ondjelo ombwanawa.
-appendicitis okiimili
-appendix okiimili (cx>), oshigwedhelwako (ii-) appetite omwamwa. desire for meat omwamwa
-gwonyama
-applaud hakela (e), pandula
-applause ehakelo, ekugililo
-apple oshiapula, oshiyapula (ii-)
-application eindilo (oma-). # form ofolomaindilO
+         ['okatuthihulitho'], 'answer': ['eyamukulo (oma-)'], 'ant':
+         ['ondhindhi (oo-)', 'eteta (oma-)', 'big brown ant = ', 'emboombolo (orna-)', 'small black ant',
+          'ombuka (oo-), okacihidhi (uu-)'],
+         'ant-bear': ['(African ant-bear)', 'eyamayarna (oma-)'], 'ant-eater': ['(scaly ant-eater)' 'ongaka (oo-)'],
+         'anthill': ['oshaanda (iiyanda)', 'oshiyanda (ii-)'], 'ant-hill': ['oshaanda (iiyanda)', 'oshiyanda (ii-)'],
+         'anthrax': ['ombuiwa (omukithi gombulwa)'], 'antibiotic': ['oshidhipagimbuto (dhuuvu) (ii-)'], 'anticipation':
+         ['etegameno'], 'anus': ['onufu (oo-)'], 'anxiety': ['omahwilili', 'uuhwenge'], 'anvil': ['oshikalo (ii-)'],
+         'ape': ['ondjima (oo-)'], 'apoplexy': ['ombanda', 'esilombanda'], 'apparatus': ['oaparate (oo-)'],
+         'apparition': ['oshihehelela (ii-)', 'oshikwafa (ii-)'], 'appeal': ['etsikilompangu'], 'appearance':
+         ['ondjelo', 'eholoko', 'ombelo', 'She has a beaurful appearance. = ', 'Oku na ondjelo ombwanawa.'],
+         'appendicitis': ['okiimili'], 'appendix': ['okiimili (oo-)', 'oshigwedhelwako (ii-)'], 'appetite':
+         ['omwamwa', 'appetite for porridge', 'omwamwa gwoshithima'], 'applause': ['ehakelo', 'ekugililo'],
+         'apple': ['oshiapula', 'oshiyapula (ii-)'], 'application':
+         ['eindilo (oma-)', 'application form = ' 'ofolomaindilO']
 
 
          }
@@ -283,7 +258,13 @@ verbs = {'find': ['adha'], 'found': ['adhika'], 'shine': ['ota dhi adhima'], 'sh
          'affiliate': ['hemukila (e) mumwe'], 'agitate': ['tsa omaminimini'], 'agree': ['pitika (e)', 'zimina (e)',
          'uvanena (e)', 'uvathana'], 'aim': ['lalakanena (e)', 'odha (o)', 'shoneka (e)',
          'I aim at the head of the bird with the gun', 'Otandi odho komutse gwokadhila nokandjembo'], 'analyse':
-         ['(sentence)', 'vongokonona'], 'anchor': ['hangela'],
+         ['(sentence)', 'vongokonona'], 'anchor': ['hangela'], 'anticipate': ['tegamena (e)'], 'annex':
+         ['tenda ko'], 'announce':
+         ['imeleta', 'ilombola', 'The man announced himself at the office. = ',
+          'Omulumentu okwi imeleta kombelewa.'], 'annoy': ['hinda(i)', 'yemateka(e)'], 'anoint': ['gwayeka(e)'],
+         'answer': ['yamukula'], 'appeal': ['tsikilitha ompangu'], 'appear': ['holoka', '(appear suddenly = )',
+         'mbanduka', 'uluka'], 'applaud': ['hakela (e)', 'pandula']
+
 
          }
 
@@ -315,19 +296,19 @@ adverbs = {'only': 'ageke', 'everywhere': 'apehe', 'please': 'alikana', 'apparen
            'again': ['ishewe', 'natango'], 'ahead': ['komeho', 'Look ahead, do not look back.', 'Tala komeho, inoo\
            tala konima.'], 'alphabetically': ['paambeendee', 'pahaambeendee'], 'although':
            ['nando', 'nonando', 'Although it was like that, they did not find the keys again. = ', 'Nando ongawo,\
-           iipatululo inaa ke yi mona we.'], 'always': ['aluhe']
+           iipatululo inaa ke yi mona we.'], 'always': ['aluhe'], 'anxiously': ['nyulukuta'],  'anyway': ['ando']
            }
 
 pronouns = {'they': 'yo', 'he': 'ye', 'she': 'ye', 'they are': 'ota ya', 'we are': 'ota tu', 'he is': 'ota',
             'she is': 'okwa', 'it is': 'osha', 'to us': 'ku se', 'us': 'se', 'they have': 'oya', 'we have':
             'otwa', 'he has': 'okwa', 'she has': 'okwa', 'other': 'galwe', 'other people': 'aantu yalwe',
-            'other things': 'iinima yilwe'
+            'other things': 'iinima yilwe', 'any': ['kehe'], 'anyone': ['kehe gumwe'], 'anything': ['kehe shimwe']
             }
 
 interjections = {'oh': 'akutu', 'poor thing': 'akutu hewa'}
 
 determiners = {'all': ['ayehe', 'ayihe', 'adhihe', 'agehe', 'all the people = ', 'aantu ayehe.', 'all chairs = ',
-               'iipundi ayihe'], 'two': ['yaali'],
+               'iipundi ayihe'], 'two': ['yaali'], 'another': ['-kwawo', '-lwe']
                }
 
 particles = {'no': 'aawe'}
