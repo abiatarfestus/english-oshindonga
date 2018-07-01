@@ -142,7 +142,50 @@ nouns = {'lightning': 'olwaadhi', 'lightnings': 'oombadhi', 'scar': 'oshaadhi', 
          'appendicitis': ['okiimili'], 'appendix': ['okiimili (oo-)', 'oshigwedhelwako (ii-)'], 'appetite':
          ['omwamwa', 'appetite for porridge', 'omwamwa gwoshithima'], 'applause': ['ehakelo', 'ekugililo'],
          'apple': ['oshiapula', 'oshiyapula (ii-)'], 'application':
-         ['eindilo (oma-)', 'application form = ' 'ofolomaindilo']
+         ['eindilo (oma-)', 'application form = ' 'ofolomaindilo'], 'appointment': ['oshilage (ii—)'], 'apron':
+         ['oshitetahema (ii-)'], 'aquarium': ['oakwariuma'], 'Arab': ['Omwaarabia (Aayarabia)']
+
+         apply longitha, ninga eind lb 
+appoint lenga (e). The chief appojflf Wilpard as h,s counsellor. Omukwaniilwa okwa leDge Wilpard a ninge Cienga lye. # (to a Post) langeka (e) Imibonga 
+ 
+approach hedha, engena (e) 
+approximately konyala, lunga, IWop April Apilili 
+ 
+arbitrate potokonona 
+arbitrator omupongololi (aa-) 
+architect omuthanekingulu (aa-), omusincljnguju 
+(aa-), omusindigumbo (aa-) 
+are Ii, aa-, 0-, e-, uu-, iia 
+rcheology uunongononi wiikulunjma area ondjalo (oo-), omuyabo (omi-) 
+argue tamanana 
+argument OOnlamanana 
+arm okwaako, okwooko, okooko (omaako) arm-pit onkwapa (oo-) 
+armament ehomato (oma-) 
+armed: be # homara. # men aaiumentu ya homata, 
+aalumenw aahomati. supply arms homateka (e) army etangakwiita (oma-), etanga lyaakwiita aroma ezimba 
+around omudhingoloko 
+arrange pongolola 
+arrangement elongekidho (oma-), eilongekidho 
+(oma-) 
+arrest kwata, tula miipandeko 
+arrive thika (I) 
+arrival eyo (oma-), ethiko (oma-) 
+arrogance elundu 
+arrow oshikutj (ii-), #-tip omuvi (omi-). wooden 
+tipped # ehongo (oma-). #-head eholongo (oma-), ondjindja (oo-) 
+artery onkandjambinzj (oo-) 
+article oshinima (ii-), okatendo (uu-) 
+artisan engomba (lyiibonga) 
+artist omunongo (aa-), onkulungu (oo-) arts uunkulungu (omau-), uunongo, uungongi as ngaashi 
+as far as Sigo 
+as soon as hela tuu 
+asbestos oasbesa 
+Asia Asia 
+Asian Omwaasia (Aayasia) 
+ash omutoko (omi-) 
+aside kombinga [y(a-)]. stand # engena (e) ask pula, indila (e). # riddles tunga oonganO askj1 okupula 
+aspt Oshjpjma (ii-) 
+
 
 
          }
