@@ -142,7 +142,7 @@ nouns = {'lightning': 'olwaadhi', 'lightnings': 'oombadhi', 'scar': 'oshaadhi', 
          'appendicitis': ['okiimili'], 'appendix': ['okiimili (oo-)', 'oshigwedhelwako (ii-)'], 'appetite':
          ['omwamwa', 'appetite for porridge', 'omwamwa gwoshithima'], 'applause': ['ehakelo', 'ekugililo'],
          'apple': ['oshiapula', 'oshiyapula (ii-)'], 'application':
-         ['eindilo (oma-)', 'application form = ' 'ofolomaindilO']
+         ['eindilo (oma-)', 'application form = ' 'ofolomaindilo'],
 
 
          }
