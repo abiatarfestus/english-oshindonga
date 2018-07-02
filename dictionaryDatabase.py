@@ -1,5 +1,6 @@
 
-nouns = {'lightning': 'olwaadhi', 'lightnings': 'oombadhi', 'scar': 'oshaadhi', 'scars': 'iiyadhi', 'arms': 'omooko', 'birthmark': 'oshaala', 'birthmarks': 'iiyala', 'colour': 'olwaala',
+nouns = {'lightning': 'olwaadhi', 'lightnings': 'oombadhi', 'scar': 'oshaadhi', 'scars': 'iiyadhi', 'arms': 
+         'omooko', 'birthmark': 'oshaala', 'birthmarks': 'iiyala', 'colour': 'olwaala',
          'color': 'olwaala', 'colours': 'omalwaala', 'colors': 'omalwaala', 'palm': 'oshaale', 'palms': 'iiyale',
          'palm-frond': 'olwaale', 'palm-fronds': 'oombale', 'doctor': 'ndohotola', 'doctors': 'eendohotola',
          'healer': 'omwaaludhi', 'healers': 'aayaludhi', 'nurse': 'omupangi', 'nurses': 'aapangi',
@@ -155,7 +156,23 @@ nouns = {'lightning': 'olwaadhi', 'lightnings': 'oombadhi', 'scar': 'oshaadhi', 
          'arts': ['uunkulungu (omau-)', 'uunongo', 'uungongi'], 'asbestos': ['oasbesa'],
          'Asia': ['Asia'], 'Asian': ['Omwaasia (Aayasia)'], 'ash': ['omutoko (omi-)'], 'arrest': ['ekwatopo'],
          'army': ['etangakwiita (oma-)', 'etanga lyaakwiita'], 'aroma': ['ezimba'],  'asking': ['okupula'],
-         'aspect': ['oshinima']
+         'aspect': ['oshinima'], 'assegai': ['egonga (oma-)'], 'assembly': ['omutumba (omi-)'], 'assignment':
+         ['oshitopolwa shiilonga', 'oshitopolwailonga (ii-)'],  'assistant': ['omuyakuli (aa-)', 'omupeha (aa-)'],
+         'assistance': ['ekwatho (oma-)', 'eyambidhidho (oma-)'], 'association': ['ehangano (oma-)'], 'asthma':
+         ['oasma'], 'astonishment': ['onkumwe'],  'atom': ['oatoma (oo-)'],  'Atlantic': ['Atlantika'],
+         'atlas': ['oatilasa (oo-)', 'oatlasa (oo-)'], 'atmosphere': ['ombepo (oo-)', 'ongandjombepo',
+         'ewangandjo'], 'attack': ['eponokelo'], 'attacker': ['omuhomoni (aa-)', 'omumatukili (aa-)', 
+         'omutondokeli (aa-)', 'omuponokeli (aa-)'], 'attempt': ['ekambadhalo ', 'onkambadhala'], 'attention':
+         ['eimweneneno', 'pay attention = ', 'ndhindhilika (e)'], 'attentiveness': ['oonkoto'], 'attitude':
+         ['omikalo', 'oohedhi'], 'attraction': ['ohokwe (oo-)'], 'auction': ['ofanditha (oo-)', 'elanditho (oma-)'],
+         'auctioneer': ['omulandithi (aa-)'], 'August': ['Auguste'], 'aunt': ['kuku (-oo)', 'memegona (-oo)'],
+         'Australia': ['Australia'], 'Australian': ['Omwaaustralia (Aayaustralia)'], 'Austria': ['Austria'],
+         'Austrian': ['Omwaaustria (Aayaustria)'], 'authority': ['oompango', 'oonkondo'], 'autumn':
+         ['(April - May)', 'oshikufuthinge (ii-)'], 'avocado': ['oshiavokado (iiy-)'], 'awl': ['oniho (oo-)'],
+         'axe': ['ekuya (oma-)'], 'axle': ['oakiseli (oo-)', 'oakisa (oo-) '], 'axis': ['oakiseli (oo-)'],
+         'awareness': ['enongelo'], 'awakening': ['ependuko']
+         
+         
           }
 
 
@@ -280,9 +297,13 @@ verbs = {'find': ['adha'], 'found': ['adhika'], 'shine': ['ota dhi adhima'], 'sh
          'langeka (e) miilonga '], 'approach': ['hedha', 'engena (e)'], 'arbitrate': ['potokonona'], 'argue':
          ['tamanana'],  'arrange': ['pongolola'], 'arrest': ['kwata', 'tula miipandeko'], 'arrive': ['thika ()'],
          'arm': ['(supply arms)', 'homateka'],  'ask': ['pula', 'indila (e)', 'ask riddles = '
-         'tunga oongano']
-
-
+         'tunga oongano'], 'attach': ['kopeka (e)'], 'attack': ['umpila (e)', 'ponokela (e)', 'homona (e)', 
+         'tondokela (e)'], 'attempt': ['kambadhala'], 'attend': ['(school)', 'sikola', 'hiti', 
+         'He attends evening classes. = =', 'Oha hiti ooklasa dhokomatango.'], 'attract': ['fuula', 
+         'She attracts a lot of boys. = ', 'Oha fuula aamati oyendji.'], 'auction': ['fanditha'], 'avert':
+         ['yanda (e)', 'keelela (e)', 'They met with the union to avert a strike. = ', 
+         'Oya kundathana nehangano opo ya yande ekanka', 'kandeka (e)', 'shiga (i)', 'tidha'], 'avoid':
+         ['iyageka (e)', 'yanda', 'keelela (e)'], 'assist': ['kwatha', 'ambidhidha'] 
 
          }
 
@@ -296,8 +317,11 @@ adjectives = {'all': 'adhihe', 'delirious': 'adhuuka', 'whole': 'aguhe', 'suprem
               ['uuwopali (omau-)'], 'alkaline': ['paalikali', 'pashimongwa'], 'angry': ['geya (e)'], 'already':
               ['nokuli', 'I took it from my pocket already. = ' 'Onde yi hili mo nokuli mondjato.'], 'lternative':
               ['epingeno(oma -)'], 'amazing': ['-kuinithi'], 'ancient': ['-kulu'], 'armed': ['(to be armed)',
-              'homata', 'armed soldiers = ', 'aakwaita ya homata'] 
-
+              'homata', 'armed soldiers = ', 'aakwaita ya homata'], 'available': ['shili po'], 'astonished':
+              ['kumwa'], 'astounding': ['-kumithi'], 'atomic': ['paatoma'], 'attractive': ['hokitha',
+              'attractive woman = ', 'omukiintu ta hokitha', 'attractive game = ', 'uudhano ta wu hokitha'],
+              'awake': ['penduka', 'papudhuka'], 'awar': ['shi', 'nongela']
+              
               }
 
 
@@ -308,7 +332,8 @@ prepositions = {'about': ['search about', 'petapeta', 'thimbilathjmbjja (e)'], '
                 'The taxi came after a while.', 'Otaxi oyeya konima yethimbo.', 'Our house is behind.', 'Egumbo\
                 lyetu oli li konima.'], 'against': ['pooha [dh(a-)]', 'Stand against the wall.',
                 'Thikama pooha dhekuma.'], 'among': ['mokati[k(a -)]'], 'amongst': ['mokati'], 'around': 
-                ['momudhingoloko'], 'aside': ['kombinga [y(a-)]', 'stand aside = ', 'engena (e)'] 
+                ['momudhingoloko'], 'aside': ['kombinga [y(a-)]', 'stand aside = ', 'engena (e)'], 
+                'at': ['p(u-)']
                 }
 
 adverbs = {'only': 'ageke', 'everywhere': 'apehe', 'please': 'alikana', 'apparently': 'aniwa', 'yes': 'eeno',
@@ -318,7 +343,7 @@ adverbs = {'only': 'ageke', 'everywhere': 'apehe', 'please': 'alikana', 'apparen
            ['nando', 'nonando', 'Although it was like that, they did not find the keys again. = ', 'Nando ongawo,\
            iipatululo inaa ke yi mona we.'], 'always': ['aluhe'], 'anxiously': ['nyulukuta'],  'anyway': ['ando'],
            'as': ['ngaashi', 'as far as = ', 'sigo', 'as soon as = ', 'hela tuu'], 'approximately':
-           ['konyala', 'lunga', 'lwopo']
+           ['konyala', 'lunga', 'lwopo'],  'away': ['yi', 'ya']
            }
 
 pronouns = {'they': 'yo', 'he': 'ye', 'she': 'ye', 'they are': 'ota ya', 'we are': 'ota tu', 'he is': 'ota',
