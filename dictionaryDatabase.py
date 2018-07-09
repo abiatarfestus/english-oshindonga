@@ -170,7 +170,93 @@ nouns = {'lightning': 'olwaadhi', 'lightnings': 'oombadhi', 'scar': 'oshaadhi', 
          'Austrian': ['Omwaaustria (Aayaustria)'], 'authority': ['oompango', 'oonkondo'], 'autumn':
          ['(April - May)', 'oshikufuthinge (ii-)'], 'avocado': ['oshiavokado (iiy-)'], 'awl': ['oniho (oo-)'],
          'axe': ['ekuya (oma-)'], 'axle': ['oakiseli (oo-)', 'oakisa (oo-) '], 'axis': ['oakiseli (oo-)'],
-         'awareness': ['enongelo'], 'awakening': ['ependuko']
+         'awareness': ['enongelo'], 'awakening': ['ependuko'], 'baboon': ['ondjima (oo-)', 'ndjima (- oo-)', 
+         'lunkima (- oo)', 'munkima (-oo)'], 'baby': ['okahanona (uu-)', 'baby powder = ', 'oshizimba shuunona'],
+         'back': ['omugongo (omi-)', 'ombunda (oo-)', 'small of the back = ', 'omumpanya (omi-)', 
+         'back of a lorry = ', 'ekangwa (oma-)'], 'backbone': ['omugongo (omi-)', 'esipa lyombunda'], 'backbite':
+         ['hokola'], 'backbiter': ['omuhokoli (aa-)'], 'background': ['osindo'], 'backside': ['okatunya (uu-)',
+         'etako (oma-)'], 'bacteria': ['ombakiteli (oo-)'], 'badge': ['oshihako (ii-)', 'epapa (oma-)'], 
+         'badness': ['uuwinayi'], 'bag': ['oshako (oo-)', 'ondjato (oo-)', ' plastic bag =', 'oshifwagalala (ii-)'],
+         'bail': ['eimbeelomo'], 'bake': ['mbaka', 'bake clay pots = ', 'yotha eembiga'], 'bakery': 
+         ['ombeka (oo-)'], 'baking-powder': ['efulika'], 'balance': ['ontengelelo (oo-)', 'etengelelo (orna-)',
+         'oshihupe'], 'bald' : ['ongwala (oo-)', 'ombala (oo-)'], 'bald head': ['omutse gongwala'], 'bale': 
+         ['(wool)', ['ompumbulu yomafufu'], 'ball': ['etanga (oma-)', 'ball wool = ', 'ongonga (oo-)'], 
+         'balloon': ['embalona (oma-)', 'ombalona (oo-)', 'efulafula (oma-)'], 'weather': ['weather=', 
+         'enthatona lyombepo'], 'ballot': ['ombapila yehogololo '], 'banana': ['embanana (oma-)', 
+         ' banana tree = ','omumbanana (omi-)'], 'bandolier': ['ekwamo (oma-)'], 'bangle': ['okagondo (uu-)'],
+         'Bangladesh': ['Bangladesh'], 'Bangladeshee': ['Omumbangaladeshi (Aa-)'], 'bank': ['ombaanga (oo-)'],
+         'banning': ['ekondo'], 'baobab': ['(tree)', 'omukwa (omi-)',' fruit of baobab=',' onkwa (oo-)']
+
+         
+         
+         'bad': ['(food)', 'ha (hi)', 'The food becomes bad. = ',
+         'likulya otayi hi.', bad adj. -nayi 
+
+'badly': ['nayi']
+
+'ban': ['konda (0)']
+
+'bang': ['(door)', 'ngwanda'] 
+
+'bank': ['v. tsilika (e)', 'pungula', 'mbaanga bank n', 'ombaanga (oo-)',' bank-account=', 'eyalulombaanga',' bank-balance=', 'oshihupembaanga',' bankrupt','mbuluka, hutuka, mbangolota bankruptcy embangoloto (oma-), embuluko '] 
+'ban': ['v. konda (o)']
+
+'baptise': ['v. shasha']
+'baptised': ['n. omushashwa (aa-)']
+'baptiser': ['omushashi (aa-)']
+'bar': ['ombaa (oo-)', 'enwino (oma-)']
+'barbed hook': ['ongona (oo-)']
+'barbel (fish)' : ['ombwishi (00-)']
+'barber': ['omukululi (aa-)']
+'barber shop': ['okakululilo (uu-)']
+'barefoot': ['ohuuna (oo-)']
+'bark rope': ['omubuya (omi-)']
+'bark (tree)':  ['eyula (oma-)']
+'bark' : ['v. gwedha']
+'barking': ['egwedho (oma-)'] 
+'barrel': ['gun barrel = ','oluungu (omaluungu)']
+'barter':  ['landakanitha', ' pingakanitha']
+'bartering': ['iihehelela']
+'basic': [ n. 'ekota'] 
+'basin': ['oshiyaha (ii-),] 
+'basis':  ['oshimbu (ii-) ']
+'basket': ['ontungwa (oo-) ',' old basket=',' oshimbando (ii-)','spherical basket',' onkinda (oo-)',' large grain basket',' eshisha (oma-), oshigandhi (ii-)']
+'bass' :  (voice) omugono (onu-), ombaatha']
+'bat' : ['elimalima (oma-)']
+'bathroom': ['okaiyogelo (uu-)']
+'battery' : ['emanya (oma-)', 'ombateri (oo-)',' car battery = ',' ombateri yosbihauto',' torch battery =  ',' emanya lyotoshe']
+'battle': ['olugodhi (omalu-)',' battle ship = ',' oskepa yolugodhi bay oshimpoko (ii-)','
+be: to battle = ',' Ii, 0. Simson was a strong man.','Simson okwa Ii omulumentu omunankondo.','The houses are near each other',' Omagumbo oge lyaathane kokule']
+'beach': ['omunkulofuta (omi-)'] 
+'beak': ['omulungu (omi-)',' epakululu (oma-)']
+'beam': ['omutenge (omi-)'] 
+'beam':['onte (oo-)', 'oonte dhctango']
+'bean': ['vigna sinensls ekunde (oma-), bean blossom=','oshikalango (ii-)',' bean and corn mixture onkundenona (oo-)',' bean sauce= ','oshigali']
+'bear': [ v 'vala', 'humbata',' bear fruit=',' ima (I)']
+'bear' : [a, 'emwanka (orna-)']
+'beard': ['ombenzi (00-)',' single beard=','oluyenzi (onialu-, oombenzi)']
+ 'bearer': ['omuhumbati (aa-)']
+'bearing': ['ehumbato (oma-)']
+'beast': ['ongombe (00-)',' YOung N omutanda (omi-)']
+'beat': ['thekula',' dhengagula','dhenga (e)',' N a drum hika (1)',' heart beat=','tuna']
+'beat': ['(win)',' yule'] 
+'beater': ['oludhigo (omalu-, oon-)']
+'beautiful' : ['opala',' yogoka','mbindjlj','nawanawa beautify=',' opaleka (e)'] 
+'beauty': ['uuwopali', 'uuyogoki',' uuhaya']
+'because': ['oshoka',' shaashi', 'shoka']
+'beckon':  ['lapa']
+'bed': ['ontala (oo-)', 'ombete (oo-)'] 
+'bed bug': ['ompombo (oo-)']
+'bedding': ['iinguma']
+'bee': ['honey bee = ',' onyushi (oo-)']
+'beer': ['ginger beer = ',' ondjindja (oo-)',' mahangu N efau (oma-)', 'corn beer = ',' omalovu']
+'beestings': ['epuya']
+'beeswax': ['ezi (oma-)'] 
+'beetle': ['poisonous night beetle = ','ondjimbi (oo-)',' bettle species = ',' okambaambala (uu-)']
+'beetroot': ['engumutulu (oma-)'] 
+'before': ['manga','komeho']
+'beg': hehela, indila (e), heka (e), galikana beggar omuheheli (aa-) 
+
          
          
           }
