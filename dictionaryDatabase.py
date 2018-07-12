@@ -209,137 +209,98 @@ nouns = {'lightning': 'olwaadhi', 'lightnings': 'oombadhi', 'scar': 'oshaadhi', 
          'onyushi (oo-)'], 'beer': ['ginger beer = ', 'ondjindja (oo-)', 'mahangu beer = ', 'efau (oma-)',
          'corn beer = ', 'omalovu'], 'beestings': ['epuya'], 'beeswax': ['ezi (oma-)'], 'beetle': 
          ['poisonous night beetle = ', 'ondjimbi (oo-)', 'bettle species = ', 'okambaambala (uu-)'], 
-         'beetroot': ['engumutulu (oma-)'], 'beggar': ['omuheheli (aa-)']
+         'beetroot': ['engumutulu (oma-)'], 'beggar': ['omuheheli (aa-)'], 'begging': ['egalikano (oma-)', 
+         'eindilo (oma-)', 'ehehelo (oma-)', 'eheko (oma-)'], 'behaviour': ['eihumbato (oma-)'], 'beginner':
+         ['omutegami (aa-)', 'omutameki (aa-)'] ,' beginning': ['ontsapo', 'etameko'], 'Belgium': ['Belgium'],
+         'Belgian': ['Omubelgiuma (Aa-)'], 'belief': ['eitaalo (oma-)'], 'believer': ['omwiitaali (aa-)'],
+         'bell': ['ongendjo (oo-)'], 'bellows': ['omupepo (omi-)'], 'belly': ['epunda (oma-)'], 'belt': 
+         ['omuya (omi-)', 'ositolopa (oo-)', 'epaya (oma-)', 'omuya (omi-)'], 'bench': ['oshipundi (ii-)'],
+         'bending' : ['ekotameno', 'enyongamo', 'The banks were high and bending. = ', 
+         'Oontuni odha li oonde nodha nyongama', 'bending in the road =', 'egoli (oma-)'], 'berry': 
+         ['dry wild-date berry=', 'onganye (oo-)', 'berry of oshipundu plant = ', 'ompundu (oo-)'],
+         'bestman': ['oshinkumbi (ii-)'], 'betrayer': ['omugwaaleki (aa-)'], 'Bible': ['Ombiimbeli (Oo-)',
+         'Ombiibeli (Oo-)'], 'bicycle': ['okafalata (uu-)','okathangutbangu (uu-)',' okambasikela (uu-)',
+         'okangangalala (uu-)'], 'bigamy': ['ombanda'], 'bill': ['oongunga', 'olekenenga (oo-)'],
+         'billion': ['obiliyona (oo-)'], 'biltong': ['oludhingu (omalu-, oon-)'], 'binding': 
+         ['wire', 'ondhalate yokumangitha'], 'bird': ['okadhila (uu-)', 'ondhila (oo-)', 
+         'big bird = ', 'edhila (oma-)'], 'bioscope': ['okino'], 'birthday': ['esiku lyevalo'],
+         'bishop': ['omumbisofi (aa-)'], 'bit': ['sha', 'okanima (uu-)'], 'bitterness': ['elulo (oma-)',
+         'uululu '], 'blackboard': ['oshipelende (ii-)'], 'Blacks': ['Aaluudhe'], 'blacksmith': 
+         ['omuhambudhi (aa-)', 'omukwaanga (aa-)', 'omuhambuli (aa-)'], 'blade': ['knife blade = ', 'efo lyomwele'],
+         'bladder': ['okampunda komasita'], 'blanket': ['oshinguma (ii-)', 'ekumbatha (oma-)',
+         'blanket wearer (Pondo person) = ', 'ontana yoshinguma'], 'bleeding': ['etiko lyombinzi',
+         'eziyombinzi', 'He let blood. = ', 'Ota tika ombinzi.'],  'blessed one': ['omuyambekwa (aa-)'],
+         'blesser' : ['omuyambeki (aa-)'], 'blessing' : ['ehaleloyambeico (oma-)', 'eyambeko (oma-)'],
+         'blindness': ['uuposi'], 'blister': ['epuya (oma-)', 'oompekehe'], 'blood': ['ombinzi (oo-)',
+         'let blood = ', 'hiha', 'ziya', 'blood-clot = ', 'engwili (oma-)', 'blood red = ', 'mbyu', ' blood vein = ', 
+         'onkandjambinzi (oo-)', 'blood  circulation = ', 'edhingolokombinzi', 'blood-poisoning = ', 
+         'ezigopalekombinzi'], 'blossom' : ['onsheno (oo-)'], 'blouse': ['ohema yoshikiintu'], 'blowing': ['epepo'],
+         'blowlamp': ['olamba yokufikilitha'], 'boasting': ['einomo (oma-)', 'A boaster is put to shame = ', 
+         'Omwiinomi a ka sa ohoni'],  'boat': ['ombautu (oo-)'], 'body': ['olutu (oma-)'], 'boil': ['ethina (oma-)',
+         'pit of a boil = ', 'oshinonga'], 'bomb': ['omboma (oo-)'], 'bombardment': ['embombo'], 'bomber' : 
+         ['omumbombi (aa-)', 'omumbomi (aa-)'], 'bombing': ['embombo (oma-)', 'embomo (oma-)'], 'bone': 
+         ['esipa (oma-)'], 'bonus': ['ombonasa (oo-)'], 'book': ['embo (oma-)', 'book cover = ', 'epeko lyembo'],
+         'boom': ['(dagga)', 'epangwe'], 'boomslang': ['iifoyamusati (ooh-)'], 'boot': ['uukongo (omau-)', 'epa (oma-)'],
+         'boot': ['(of a motorcar)', 'okakoto komitsalo', 'obuta'], 'booth': ['okangulu (uu-)'], 'border': 
+         ['ongamba (oo-)'], 'borehole': ['omboola (oo-)', 'omboolandungu (oo-)'], 'borrowing': ['ehehelo'], 'botany': 
+         ['obotani', 'ontseyoimeno '], 'Botswana' : ['Oshawana', 'Botswana'], 'Botswanan': ['Omushawana (Aa-)'],
+         'bottle': ['ekende (oma-)'],  'bottletop': ['oshisiikilitho (ii-)'], 'bottom': [' oshitako (ii-)', 'kohi [(ya-)]'],
+         'boulder': ['ethindimanya (oma-)'], 'boundary-line': ['ontaululi (oo-)'], 'bow': ['uutati (omau-)', 
+         'uuta wanangongo '], 'bowtie': ['okakunde (uu-) '], 'box': ['oshiketha (ii-)', 'okapakete (uu-)'], 'boxer': 
+         ['omumbokisi (aa-)', 'omudhengingonyo (aa-)'], 'boxing': ['ombokis', ' boxing glove = ', 'enyalainbokisitho',
+         'boxing ring = ', 'okalugumbombokisilo', 'boxing boots = ', 'oongaku dhombokisa', 'boxing tournament =', 
+         'uudhengingonyo'], 'boy': ['okamati (uu-)',' boy child = ', 'okanona okamati', 'elderly boy = ', 'omumati a kaha'],
+         'boyhood': ['uumati'] 
 
-         'begging': ['egalikano (oma-)', 'eindilo (oma-)','ehehelo (oma-)','eheko (oma-)']
+         
+         
+          'both': ['-lwe',' –ali']
+
 'behave': ['ihumbata'] 
-'behaviour': ['eihumbato (oma-)']
 'begin': ['tameka (e)', 'vunda (u)']
-'beginner': ['omutegami (aa-)','omutameki (aa-)',' beginning ontsapo', 'etameko'] 
 'behind': [n,',okatunya (nu-)','etako (oma-) behind konima [y(a-)]',' After a while the woman came, Konima yokathimbo omukulukadhi okwe ya']
-'Belgium': ['Belgium'] 
-'Belgian': ['Omubelgiuma (Aa-)']
-'belief': ['eitaalo (oma-)']
 'believe': ['itaala'] 
-'believer': ['omwiitaali (aa-)']
 'belong': ['Ii', 'kala'] 
 'below': ['pevi [iy(a-)j']
-'bell': ['ongendjo (oo-)']
 'bellow': ['(cattle)','ula (u)']
-'bellows': ['omupepo (omi-)']
-'belly': ['epunda (oma-)']
 'beloved':[' one',' omuholike (aa-)']
-'belt': ['omuya (omi-)', 'ositolopa (oo-)', 'epaya (oma-)', 'omuya (omi-)'] 
-'bench': ['oshipundi (ii-)']
 'bend': ['petama', 'ntilika (e)',' bend over-',' foreward petamena (e) komeho,',' ntilika (e). He bends the palm-leaf branch. Ota ntilike epokolo',' N the knee tivula. bend down=',' gonyOfla']
- 
-'bending' : ['ekotameno','enyongamo ','The banks were high and sloping', 'Oontuni odha Ii oonde nodha nyongama',' bending in the road=',' egoli (oma-),] 
-'berry': ['dry wild-date berry=',' onganye (oo-)',' berry of oshipundu plant=',' ompundu (oo-)'] 
 'besides': ['nokuli']
-'bestman': ['oshinkumbi (ii-)']
 'betimes': ['kuyele', 'pethimbo'] 
 'betray': ['gwaaleka (e)', 'kengelela (e)'] 
-'betrayer': ['omugwaaleki (aa-)']
 'better': ['It is better 'hwepo',' it is better for them to go into the woods=',' Hwepo ya ye miihwa. between pokati [k(a-)]']
 'beware!']: ['Angala!', 'Kotoka']
 'bewitch': ['tikila (e)',' loga (o)']
 'beyond': ['pombanda']
-'Bible': ['Ombiimbeli (Oo-)',' Ombiibeli (Oo-)']
-'bicycle': ['okafalata (uu-)','okathangutbangu (uu-)',' okambasikela (uu-)','okangangalala (uu-)'] 
 'big': ['mbwakuli',' -nene ']
 'big': ['as as thike']
-'bigamy': ['ombancla']
 'bigger': ['yule muunene']
 'biggest': ['yule ayihe muunene']
-'bill': ['oongunga', 'olekenenga (oo-)'] 
-'billion': ['obiliyona (oo-)']
 'billow':[' out'.' Tuwalala']
-'biltong': ['oludhingu (omalu-, oon-)']
-'binding': ['wire',' ondhalate yokumangitha'] 
-'bird': ['okadhila (uu-)',' ondhila (oo-)',' big bird=','edhila (oma-)']
-'bioscope': ['okino']
 'birth': [v, give birth=',' vala',' give birth (people)=',' pulumutha',' birth of twins=',' epaha',' premature birth=',' ponona'] 
-'birthday': ['esiku lyevalo'] 
 'bisect': ['tateka (e)'] 
-'bishop': ['omumbisofi (aa-)']
-'bit': ['sha',' okanima (uu-)']
 'bite': ['v, 'lumata', 'komona', 'bite one's lips=',' mata bite n, okahuto (uu-']
 'bitter': ['lula (u)',' –lulu', 'nyenya'] 
-'bitterness': ['club (oma-)','uululu ']
 'black': ['luudhe'] 
-'blackboard': ['oshipelende (ii-)']
 'blacken': ['Luudhika (e)', 'nyateka (e)'] 
 'blackmail': ['thina']
-'Blacks': ['Aaluudhe'] 
-'blacksmith': ['omuhambudhi (aa-)','omukwaanga (aa-)','omuhambuli (aa-)']
-'blade': ['knife blade=',' efo lyornwele']
-'bladder': ['okampunda kornasita'] 
-'blanket': ['oshinguma (ii-)', 'ekumbatha (oma-)','blank et wearer (Pondo person) ontana yoshinguma']
 'blast': ['v,' topa ']
 'blaze': ['eye (oma-)']
 'bleat':['lila (i)'] 
- 
 'bleed': ['hiha'] 
-'bleeding': ['etiko Iyombinzi',' eziyombinzj',' He kt blood',' Ota tika ombinzi'] 
-'blessed': [one omuyambekwa (aa-)']
-'blesser' : ['omuyambeki (aa-)'] 
-'blessing' : ['ehaleloyambeico (oma-)', 'eyambeko (oma-)']
 'blind': ['toga (0)',' become blind =','  tsika','I am blind',' Onda tsika', 'blind person=',' omuposi (aa-)']
-'blindness': ['uuposi']
-'blister': ['epuya (oma-)', 'oompekehe']
 'block': ['keelela(e)]
-'blood': ['ombinzi (oo-)','  let blood =',' hiha', 'ziya',' blood -clot =',' engwili (oma-),' blood red=',' mbyu','  blood -veln =','onkandjam binzi (oo-)','  blood  circulation =',' edhingolokombinzi','  blood -poisomng =',' ezigopalekombiazi']
-'blossom' : ['onsheno (oo-)']
-'blouse': ['ohema yoshikiintu'] 
 'blow': ['V, ' pepa (e)']
 'blow': [blow grain of sand from the eye= ','fugula','  blow nose =','pemba'] 
-'blowing': ['epepo']
-'blowlamp': ['olamba yokufikilitha'] 
 'blue': ['mbulau']
 'blunt': [ 'simpa (1)',' blunt knife=',' omwele gwa simpa']
 'board': ['v, 'menekela (e) ']
-'boasting': ['einomo (oma-)',' A boaster is put to shame',' Omwiinomi a ka sa ohoni'] 
 'boastful': ['person','otyaka (oo-)']
-'boat': ['ombautu (oo-)'] 
-'body': ['olutu (oma-)']
 'boil': [v, 'fuluka']
-'boil': [n,  'ethina (oma-)','  pit of a boil=',' oshinonga'] 
 'boiling': ['efuluko (oma-)']
 'bomb': [v, 'mboma (o)', 'mbomba (o)'] 
-'bomb': [n, 'omboma (oo-)']
-'bombardment': ['embombo'] 
-'bomber' : ['omumbombi (aa-)', 'omumbonii (aa-)']
-'bombing': ['embombo (oma-)','embomo (oma-)']
-'bone': ['esipa (oma-)'] 
-'bonus': ['ombonasa (oo-)']
-'book': ['embo (oma-)',' book -cover =',' epeko lyembo']
-'boom': ['(dagga)','epangwe'] 
-'boomsiang: ['iifoyamusati (ooh-)']
-'boot': ['uukongo (omau-)', 'epa (oma-)'] 
-'boot': ['(motorcar)',' okakoto komitsal'] 
-'booth': ['okangulu (uu-)']
-'border': ['ongamba (oo-)']
-'borehole': ['omboola (oo-)', 'omboolandungu (oo-)'] 
 'borrow':['hehela (e) ']
-'borrowing': ['ehehelo'] 
-'botany': ['obotani', 'ontseyoimeno ']
-'both':[ '-Iwe',' –ali']
-'Botswana' : ['Oshawana','Botswana'] 
-'Botswanan': ['Omushawana (Aa-)'] 
-'bottle': ['ekende (oma-)'] 
- 
-'bottletop': ['oshisiikilitho (ii-)']
-'bottom': [' oshitako (ii-)',' kohl [(ya-)]'] 
-'boulder': ['ethindimanya (oma-)']
-'boundary-line': [' ontaululi (oo-)'] 
-'bow':['uutati (omau-)', 'uuta wanangongo ']
-'bowtie': ['okakunde (uu-) ']
-'box': ['oshiketha (ii-)', 'okapakete (uu-)']
 'box': [V, ' mbokisa']
-'boxer': ['omumbokisi (aa-)', 'omudhengingonyo (aa-)']
-'boxing': ['ombokis','  boxing glove=',' enyalainbokisitho',' boxing ring=',' okalugumbombokisilo',' boxing boots=',' oongajcu dhombokisa', ' boxing  tournament =',' uudhengingonyo']
-'boy': ['okamati (uu-)',' boy child=','okanona okamati',' elderly boy =','omumati a kaha']
-'boyhood': ['uumati'] 
 'brackish': ['big brackish spot =',' oshipale (ii-)'] 
 'brain': ['uuluyi',' brain power =','  omitse ominene brake v. mbilika (e)'] 
 'brake': [ n,' ombiliki (oo-)'] 
