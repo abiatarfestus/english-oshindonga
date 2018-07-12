@@ -250,12 +250,33 @@ nouns = {'lightning': 'olwaadhi', 'lightnings': 'oombadhi', 'scar': 'oshaadhi', 
          ['omumbokisi (aa-)', 'omudhengingonyo (aa-)'], 'boxing': ['ombokis', ' boxing glove = ', 'enyalainbokisitho',
          'boxing ring = ', 'okalugumbombokisilo', 'boxing boots = ', 'oongaku dhombokisa', 'boxing tournament =', 
          'uudhengingonyo'], 'boy': ['okamati (uu-)',' boy child = ', 'okanona okamati', 'elderly boy = ', 'omumati a kaha'],
-         'boyhood': ['uumati'] 
+         'boyhood': ['uumati'], 'brain': ['uuluyi', 'brain power = ', 'omitse ominene'], 'brake': ['ombiliki (oo-)'],
+         'bran': ['uuhutu'], 'branch': ['oshitayi (ii-)'], 'brandy': ['ombike', 'ombelendi'], 'bravery': 
+         ['onyati (oo-)', 'uufule'], 'bray': ['koma (o)'], 'Brazil': ['Brazilia '], 'Brazilian': ['Omubrazilia (Aa-)'],
+         'bread': ['omboloto (oo-)', 'oshikwiila (ii-)', 'a slice of bread = ', 'oshipambu shomboloto'], 'breadth': ['omutamo'],
+         'break':  ['okafudho (uu-)'], 'breaker': ['ekuthikuthi (oma-)'], 'breaking': ['eteko'], 'breast': ['(animals)',
+         'ondete (oo-)', 'breast  (woman) = ', 'egundji (oma-)'], 'breath': ['omufudho (omi-)'], 'Bushman': 
+         ['Omukwankala (Aa-)', 'Bushmans kraal = ', 'epundo (oma-)', 'bushmans hut = ', 'etsali (oma-)'], 'business': 
+         ['uunangeshefa (omau-)'], 'businessman': ['omunangeshefa (aa-)'], 'Bustard': ['Kori bustard = ', 'ekakaiwa (oma-)'],
+         'bud': ['onsheno (oo-)'], 'budget': ['etengenekothaneko (oma-)'], 'buffalo': ['onyati (oo-)'], 
+         'builder': ['omutungi (aa-)'], 'building': ['etungo (oma-)', 'ongulu (oo-)', 'egumbo (oma-)', 
+         'building  contractor = ', 'omutungingulu (aa-)'], 'bulb': ['ombimbo (oo-)', 'etindi (oma-)'], 'brewery':
+         ['ombuulaye (oo-)'], 'bribe': ['ombumbo (oo-)'], 'brick': ['ombasikena (oo-)', 'ondhopi (oo-)'], 'bride':
+         ['omufuko (aa-)', '(brides)',  'aafuko aakiintu'], 'bridegroom': ['omufuko omulumentu (aa-)', 'ombushiki (oo-)'],
+         'bridesmaid': ['oshinkumbi (ii-)'], 'bridge': ['ontopa (oo-)'], 'bridle': ['oshitomo (ii-)'], 'briefcase':
+         ['ompunda (oo-)']
+
+
 
          
+
+  'build': ['tunga (u)']        
          
+         'branch': [ 'off puguma']
+brake v. mbilika (e)']
+ 'brave': [' pendapala']        
+ 'break': ['pambula', 'tatula', 'teya (e)', 'tokola',' topola',' break down=',' kumuna',' ngumuna',' break open=',' hw'aga',' break loose =','gwaya ']        
           'both': ['-lwe',' –ali']
-
 'behave': ['ihumbata'] 
 'begin': ['tameka (e)', 'vunda (u)']
 'behind': [n,',okatunya (nu-)','etako (oma-) behind konima [y(a-)]',' After a while the woman came, Konima yokathimbo omukulukadhi okwe ya']
@@ -302,39 +323,11 @@ nouns = {'lightning': 'olwaadhi', 'lightnings': 'oombadhi', 'scar': 'oshaadhi', 
 'borrow':['hehela (e) ']
 'box': [V, ' mbokisa']
 'brackish': ['big brackish spot =',' oshipale (ii-)'] 
-'brain': ['uuluyi',' brain power =','  omitse ominene brake v. mbilika (e)'] 
-'brake': [ n,' ombiliki (oo-)'] 
-'bran': ['uuhutu'] 
-'branch': ['oshitayi (ii-)'] 
-'branch': [ 'off puguma']
-'brandy ': ['ombike', 'ombelende ']
-'brave': [' pendapala']
-'braveness': ['onyati (oo-)',' uufule']
-'bray': ['koma (0)']
-'Brazil': ['Brazjlia ']
-'Brazilian': ['Omubrazija (Aa-)']
-'bread': ['omboloto (oo-)',' oshikwjjla (ii-)',' a slice of bread=',' oshipambu shomboloto']
-'breadth': ['omutarno ']
-'break': ['pambula', 'tatula', 'teya (e)', 'tokola',' topola',' break down=',' kumuna',' ngumuna',' break open=',' hw'aga',' break loose =','gwaya ']
-'break':  [n, 'okafudho (uu-) ']
-'breaker': ['ekuthjkuthj (orna-) ']
-'breaking': ['eteko'] 
-'breast': ['(animals)',' ondete (oo-', 'breast  (woman)=',' egundji (oma-)']
-'breath': ['omufudho (omi-) ']
 'breathe': [ 'fudha']
 'breathing: [' iifudho',' omufudho (omi-) ']
 'breed': [ v, ' kola',' He breeds dogs',' Okwa kola oombwa']
 'breeding: ['ekolo'] 
 'brew': ['hanga', 'dhunga (u) ']
-'brewery': ['ombuulaye (oo-)']
-'bribe': [a,' ombumbo (oo-)'] 
-'brick': [' om5jkena (oo-)',' ondhopi (oo-)'] 
-'bride': ['omufijko (aa-)',' brides aafuko aakiintu']
-'bridegroom': ['omufuko (aa-)', 'ombushjkj (oo-) ']
-'brldesmd': ['oshinkumbj (ii-)'] 
-'bridge': ['ontopa (oo-)'] 
-'bridle': ['oshitomo (ii-)'] 
-'briefca': ['ompunda (oo-)']
 'bright': [' –yelele', '-adhjm'] 
  'brindled': ['gnu oshikandagula (ii-)', 'ompugulu (oo-)']
 'bring':[' eta',' bring  back =',' galula','  bring  up=','  tekula','  bring to somebody =','etela (e)']
@@ -357,13 +350,6 @@ nouns = {'lightning': 'olwaadhi', 'lightnings': 'oombadhi', 'scar': 'oshaadhi', 
 'bucket': ['eyemele (oma-)', 'eeine!e (oma-) etenga (oma-)'] 
 'buckle': ['ompate (00-)']
 'bud':[ v,'shena (e) terida (e) ']
-'bud': [n,' onsheno (oo-)'] 
-'budget': ['etengenekothaneko (oma-)']
-'buffalo': ['onyati (oo-)'] 
-'build': ['tunga (u)'] 
-'builder': ['omutungi (aa-)'] 
-'building': ['etungo (oma-)',' ongulu (oo-)', 'egumbo (oma-)',' building  contractor =','omutungingulu (aa-)']
-'bulb': [' ombimbo (oo-)',' etindi (oma-)'] 
 'edible': ['edible=',' ongehu (oo-)'] 
 'bulge': ['umbuka',' His eyes bulgecL','Omeho ge ogu umbuka mo'] 
 'bull': ['ontsenzi (oo-)',' oldish bull=',' ekulutsezi (oma-)','bullet oholo (oo-)'] 
@@ -384,10 +370,6 @@ nouns = {'lightning': 'olwaadhi', 'lightnings': 'oombadhi', 'scar': 'oshaadhi', 
 'bus': ['ekambamba (oma-)', 'ombesa (oo-)'] 
 'bush': ['oshiheke (ii-)',' oshihwa (ii-)']
 'thick': [thick=',' omuthitu (omi-)', 'okuti (omaku-)'] 
-'Bushman': ['Omukwankala (Aa-)',' Bushmans kraal =',' epundo (oma-)',' bushmans hut =',' etsali (oma-)']
-'business': ['uunangeshefa (omau-)'] 
-'businessman': ['omunangeshefa (aa-) ']
-'Bustard': ['Kori bustard=',' ekakaiwa (oma-), Roberts' 230 ']
 'busy': ['sikuuka',' keep oneself busy=',' ipyakidhila (e)'] 
 'but': ['ihe', 'ndele',' The owner hit him but  it did not help=','  Mwene okwe ka dhenge ihe inashi kwatha sha']
 'butcher': [' omurseli (aa-)']
