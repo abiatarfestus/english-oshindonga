@@ -19,18 +19,18 @@ nouns = {'lightning': 'olwaadhi', 'lightnings': 'oombadhi', 'scar': 'oshaadhi', 
          'pharmacies': ['ooapoteka'], 'apples': ['iiyapula'], 'udder': ['oshawo'],
          'udders': ['iishawo'], 'December': ['Desemba'], 'player': ['omudhani'], 'players': ['aadhani'],
          'dancer': ['omundanisi'], 'dancers': ['aandanisi'], 'game': ['uudhano'], 'games': ['omaudhano'], 'toy':
-         ['okadhanitho'], 'boxer': ['omudhengingonyo'], 'boxers': ['aadhengingonyo'], 'beating': ['edhengo'],
+         ['okadhanitho'], 'boxers': ['aadhengingonyo'], 'beating': ['edhengo'],
          'train': ['eshina lyokolutenda'], 'trains': ['omashinga gokolutenda'], 'trainer': ['omudheuli'],
          'trainers': ['aadheuli'], 'exercise': ['edhewo'], 'exercises': ['omadheo'], 'root': ['omudhi'], 'roots':
          ['omidhi'], 'type': ['oludhi'], 'gender': ['omukakwashike kookantu'], 'sex': ['omukakwashike kookantu'],
-         'perseverance': ['eidhidhimiko'], 'efficiency': ['uudhiginini'], 'bird': ['okadhila'], 'birds':
+         'perseverance': ['eidhidhimiko'], 'efficiency': ['uudhiginini'], 'birds':
          ['uudhila'], 'plane': ['odhila'], 'planes': ['eedhila'], 'aeroplanes':
          ['eedhila'], 'helicopter': ['edhagadhaga'], 'helicopters': ['omadhagadhaga'], 'idea': ['edhiladhilo'],
          'ideas': ['omadhiladhilo'], 'black crow': ['edhilakola'], 'black crows': ['omadhilakola'], 'soot':
          ['omudhilo'], 'fledgling': ['okadhilona'], 'fledglings': ['uudhilona'], 'corpse': ['omudhimba'],
          'dead body': ['omudhimba'], 'corpses': ['omidhimba'], 'dead bodies': ['omidhimba'], 'remembrance':
          ['edhimbuluko'], 'eraser': ['okadhimitho'], 'erasers': ['uudhimitho'], 'name': ['edhina'], 'names':
-         ['omadhina'], 'vicinity': ['omudhingoloko'], 'biltong': ['odhingu'], 'biltongs': ['oodhingu'],
+         ['omadhina'], 'vicinity': ['omudhingoloko'], 'biltongs': ['oodhingu'],
          'despicable': ['dhinwa'], 'despicable person': ['omudhinwa'], 'despicable people': ['aadhinwa'],
          'the killing': ['edhipago'], 'the killings': ['omadhipago'], 'the murder': ['edhipago'], 'knot':
          ['edhita'], 'knots': ['omadhita'], 'killer': ['omudhipagi'], 'killers': ['aadhipagi'], 'murderer':
@@ -42,7 +42,7 @@ nouns = {'lightning': 'olwaadhi', 'lightnings': 'oombadhi', 'scar': 'oshaadhi', 
          'chance': 'olweedhe', 'first born': 'osheeli', 'door': 'osheelo', 'doors': 'omiyelo', 'entrance': 'osheelo',
          'traveler': 'omweendi', 'travelers': 'aayendi', 'traveller': 'omweendi', 'travellers': 'aayendi',
          'journey': 'olweendo', 'madam': 'efolo', 'thorn': 'okwega', 'thorns': 'omakwega', 'dagger': 'omwele',
-         'daggers': 'oomwele', 'knife': 'ombele', 'knives': 'oombele', 'bucket': 'eemele', 'buckets': 'omaemele',
+         'daggers': 'oomwele', 'knife': 'ombele', 'knives': 'oombele', 'buckets': 'omaemele',
          'cemetery': 'omayendo', 'graveyard': 'omayendo', 'sugar cane': 'omwenge', 'sugar canes': 'oomwenge', 'lizard':
          'eengele', 'lizards': 'omaengele', 'fog': 'oshientsi', 'feather': 'olwenya', 'feathers': 'omalwenya',
          'dry season': 'okwenye', 'dry seasons': 'okwenye', 'life': 'onkalamwenyo', 'soul': 'omwenyo',
@@ -73,20 +73,20 @@ nouns = {'lightning': 'olwaadhi', 'lightnings': 'oombadhi', 'scar': 'oshaadhi', 
          'bosses': 'aahona', 'furrow': 'ofoola', 'furrows': 'oofoola', 'form': 'ofooloma', 'forms': 'oofooloma',
          'winter': 'okufu', 'winter time': 'ethimbo lyokufu', 'a hypocrite': 'omufudhime', 'hypocrites': 'aafudhime',
          'is a hypocrite': 'omufudhime', 'are hypocrites': 'aafudhime', 'the hypocrites': 'aafudhime',
-         'breath': 'omufudho', 'holiday': 'efudho', 'holidays': 'omafudho', 'break': 'okafudho',
+         'holiday': 'efudho', 'holidays': 'omafudho', 
          'playtime': 'okafudho', 'hair': 'omafufu',
          'a greedy person': 'omufukentu', 'the bride': 'omufuko', 'a bride': 'omufuko', 'brides': 'aafuko',
          'the brides': 'aafuko', 'ground nut': 'ofukwa', 'ground nuts': 'oofukwa', 'a hole': 'oshilambo', 'the hole':
          'iilambo', 'the holes': 'iilambo', 'holes': 'iilambo', 'a load of': 'ofulaha y', 'hero': 'ependafule',
          'heroes': 'omapendafule', 'heroine': 'ependafule', 'heroines': 'omapendafule', 'the hero': 'ependafule',
          'the heroes': 'omapendafule', 'the heroine': 'ependafule', 'the heroines': 'omapendafule', 'frog': 'efuma',
-         'the frog': 'efuma', 'the frogs': 'omafuma', 'frogs': 'omafuma', 'a frog': 'afuma', 'burial': 'efumbiko',
+         'the frog': 'efuma', 'the frogs': 'omafuma', 'frogs': 'omafuma', 'a frog': 'afuma', 
          'funeral': 'efumbiko', 'lies': 'iifundja', 'flood': 'efundja', 'a liar': 'omuniifundja', 'they are liars':
          'yo aaniifundja', 'liars': 'aaniifundja', 'the liars': 'aaniifundja', 'jealousy': 'efupa', 'shortness':
          'uufupi', 'abbreviation': 'efupipiko (oma-)', 'an abbreviation': 'efupipiko', 'abbreviations': 'omafupipiko',
          'the abbreviations': 'omafupipiko', 'payment': 'ofuto', 'payments': 'iifuta', 'the payments': 'iifuta',
          'thief': 'omufuthi', 'thieves': 'aafuthi', 'the thief': 'omufuthi', 'the thieves': 'aafuthi', 'reward':
-         'ondjambi', 'rewards': 'oondjambi', 'vanity': 'uufuuli', 'fat': 'ekagadhi', 'butter': 'ombuta', 'oil':
+         'ondjambi', 'rewards': 'oondjambi', 'vanity': 'uufuuli', 'fat': 'ekagadhi', 'oil':
          'omagadhi', 'lotion': 'omagadhi', 'honey': 'omagadhi goonyushi', 'margarine': 'ombuta', 'hat': 'egala',
          'hats': 'omagala', 'a hat': 'egala', 'the hats': 'omagala', 'prayer': 'egalikano', 'prayers': 'omagalikano',
          'a prayer': 'egalikano', 'the prayers': 'omagalikano', 'a return': 'egaluko', 'the return': 'egaluko',
@@ -221,7 +221,7 @@ nouns = {'lightning': 'olwaadhi', 'lightnings': 'oombadhi', 'scar': 'oshaadhi', 
          'bestman': ['oshinkumbi (ii-)'], 'betrayer': ['omugwaaleki (aa-)'], 'Bible': ['Ombiimbeli (Oo-)',
          'Ombiibeli (Oo-)'], 'bicycle': ['okafalata (uu-)','okathangutbangu (uu-)',' okambasikela (uu-)',
          'okangangalala (uu-)'], 'bigamy': ['ombanda'], 'bill': ['oongunga', 'olekenenga (oo-)'],
-         'billion': ['obiliyona (oo-)'], 'biltong': ['oludhingu (omalu-, oon-)'], 'binding': 
+         'billion': ['obiliyona (oo-)'], 'biltong': ['odhingu', 'oludhingu (omalu-, oon-)'], 'binding': 
          ['wire', 'ondhalate yokumangitha'], 'bird': ['okadhila (uu-)', 'ondhila (oo-)', 
          'big bird = ', 'edhila (oma-)'], 'bioscope': ['okino'], 'birthday': ['esiku lyevalo'],
          'bishop': ['omumbisofi (aa-)'], 'bit': ['sha', 'okanima (uu-)'], 'bitterness': ['elulo (oma-)',
@@ -240,7 +240,7 @@ nouns = {'lightning': 'olwaadhi', 'lightnings': 'oombadhi', 'scar': 'oshaadhi', 
          'pit of a boil = ', 'oshinonga'], 'bomb': ['omboma (oo-)'], 'bombardment': ['embombo'], 'bomber' : 
          ['omumbombi (aa-)', 'omumbomi (aa-)'], 'bombing': ['embombo (oma-)', 'embomo (oma-)'], 'bone': 
          ['esipa (oma-)'], 'bonus': ['ombonasa (oo-)'], 'book': ['embo (oma-)', 'book cover = ', 'epeko lyembo'],
-         'boom': ['(dagga)', 'epangwe'], 'boomslang': ['iifoyamusati (ooh-)'], 'boot': ['uukongo (omau-)', 'epa (oma-)'],
+         'boom': ['(dagga)', 'epangwe'], 'boomslang': ['iifoyamusati (ooh-)'],
          'boot': ['(of a motorcar)', 'okakoto komitsalo', 'obuta'], 'booth': ['okangulu (uu-)'], 'border': 
          ['ongamba (oo-)'], 'borehole': ['omboola (oo-)', 'omboolandungu (oo-)'], 'borrowing': ['ehehelo'], 'botany': 
          ['obotani', 'ontseyoimeno '], 'Botswana' : ['Oshawana', 'Botswana'], 'Botswanan': ['Omushawana (Aa-)'],
@@ -264,128 +264,25 @@ nouns = {'lightning': 'olwaadhi', 'lightnings': 'oombadhi', 'scar': 'oshaadhi', 
          ['ombuulaye (oo-)'], 'bribe': ['ombumbo (oo-)'], 'brick': ['ombasikena (oo-)', 'ondhopi (oo-)'], 'bride':
          ['omufuko (aa-)', '(brides)',  'aafuko aakiintu'], 'bridegroom': ['omufuko omulumentu (aa-)', 'ombushiki (oo-)'],
          'bridesmaid': ['oshinkumbi (ii-)'], 'bridge': ['ontopa (oo-)'], 'bridle': ['oshitomo (ii-)'], 'briefcase':
-         ['ompunda (oo-)']
+         ['ompunda (oo-)'], 'breathing': ['iifudho', 'omufudho (omi-)'], 'Britain': ['Britania'], 'British Isles':
+         ['Oontuntu dhaBritania '], 'Briton': ['Omubritania (Aa-)'], 'broadcasting': ['etumo mombepo'], 'brochure': 
+         ['okafo komauyelele'], 'broom': ['oluhwati (omalu-)', 'olutiati (omalu-)', 'oshikombe (ii-)', 'grass broom = ',
+         'oluhwati lwomwiidhi', 'oluhwati lwoohozi'], 'brother': ['omumwayina (aa-)', 'mbuluta (oo-)', 'half brother = ',
+         'omumwaho (aamw-)'], 'brownsel': ['omukolokoshi (aa-)'], 'bubble': ['ombimbwi (oo-)'], 'bubbling': 
+         [ '(noise of porridge or meat cooking) kwakwata', 'gwagwata'], 'bubonic plague': ['uuvu wombuku'],
+         'bucket': ['eyemele (oma-)', 'eemele (oma-)', 'etenga (oma-)'], 'buckle': ['ompate (oo-)'], 'bull': 
+         ['ontsenzi (oo-)', 'oldish bull = ', 'ekulutsezi (oma-)'], 'bullet': ['oholo (oo-)'], 'bulletin': 
+         ['ombuletine'], 'burn marks': ['oondjota'], 'burr': ['(in wood)', 'oshitholongonyo (ii-)'], 'burrow': 
+         ['omvugo (oo-)'], 'bursary': ['iimaliwa yokwiilongitha'], 'bumping': ['engwandjulo (oma-)'], 'bunch': 
+         ['ehila (oma-)'], 'bundle': ['oshihampi (ii-)', 'oshipandi (ii-)', 'bundles of  firewood = ', 'iihampi yiikuni',
+         ' oshihwali (ii-)', 'small bundle = ', 'okamita (uu-)', 'okapandi (uu-)', 'okahampi (uu-)'], 'burial':
+         ['efumbiko (oma-)', 'efumviko (oma-)', 'epako (oma-)'], 'bus': ['ekambamba (oma-)', 'ombesa (oo-)'],
+          'bush': ['oshiheke (ii-)', 'oshihwa (ii-)'], 'thick': ['omuthitu (omi-)', 'okuti (omaku-)'], 'buyer': 
+         ['omulandi (aa-)'], 'butcher': ['omutseli (aa-)'], 'butchery': ['oshilahite (ii-)'], 'butter': 
+         [ 'omagadhi', 'ombuta (oo-)'], 'butterfly': ['embiilimbili (oma-)', 'okambiimbili (uu-)'], 'buttock': 
+         ['etako (oma-)'], 'button': ['ombandi (oo-)'], 'bump': ['(on the head)', 'ombole (oo-)'],  'behind': 
+         ['okatunya (uu-)', 'etako (oma-)']
 
-
-
-         
-
-  'build': ['tunga (u)']        
-         
-         'branch': [ 'off puguma']
-brake v. mbilika (e)']
- 'brave': [' pendapala']        
- 'break': ['pambula', 'tatula', 'teya (e)', 'tokola',' topola',' break down=',' kumuna',' ngumuna',' break open=',' hw'aga',' break loose =','gwaya ']        
-          'both': ['-lwe',' –ali']
-'behave': ['ihumbata'] 
-'begin': ['tameka (e)', 'vunda (u)']
-'behind': [n,',okatunya (nu-)','etako (oma-) behind konima [y(a-)]',' After a while the woman came, Konima yokathimbo omukulukadhi okwe ya']
-'believe': ['itaala'] 
-'belong': ['Ii', 'kala'] 
-'below': ['pevi [iy(a-)j']
-'bellow': ['(cattle)','ula (u)']
-'beloved':[' one',' omuholike (aa-)']
-'bend': ['petama', 'ntilika (e)',' bend over-',' foreward petamena (e) komeho,',' ntilika (e). He bends the palm-leaf branch. Ota ntilike epokolo',' N the knee tivula. bend down=',' gonyOfla']
-'besides': ['nokuli']
-'betimes': ['kuyele', 'pethimbo'] 
-'betray': ['gwaaleka (e)', 'kengelela (e)'] 
-'better': ['It is better 'hwepo',' it is better for them to go into the woods=',' Hwepo ya ye miihwa. between pokati [k(a-)]']
-'beware!']: ['Angala!', 'Kotoka']
-'bewitch': ['tikila (e)',' loga (o)']
-'beyond': ['pombanda']
-'big': ['mbwakuli',' -nene ']
-'big': ['as as thike']
-'bigger': ['yule muunene']
-'biggest': ['yule ayihe muunene']
-'billow':[' out'.' Tuwalala']
-'birth': [v, give birth=',' vala',' give birth (people)=',' pulumutha',' birth of twins=',' epaha',' premature birth=',' ponona'] 
-'bisect': ['tateka (e)'] 
-'bite': ['v, 'lumata', 'komona', 'bite one's lips=',' mata bite n, okahuto (uu-']
-'bitter': ['lula (u)',' –lulu', 'nyenya'] 
-'black': ['luudhe'] 
-'blacken': ['Luudhika (e)', 'nyateka (e)'] 
-'blackmail': ['thina']
-'blast': ['v,' topa ']
-'blaze': ['eye (oma-)']
-'bleat':['lila (i)'] 
-'bleed': ['hiha'] 
-'blind': ['toga (0)',' become blind =','  tsika','I am blind',' Onda tsika', 'blind person=',' omuposi (aa-)']
-'block': ['keelela(e)]
-'blow': ['V, ' pepa (e)']
-'blow': [blow grain of sand from the eye= ','fugula','  blow nose =','pemba'] 
-'blue': ['mbulau']
-'blunt': [ 'simpa (1)',' blunt knife=',' omwele gwa simpa']
-'board': ['v, 'menekela (e) ']
-'boastful': ['person','otyaka (oo-)']
-'boil': [v, 'fuluka']
-'boiling': ['efuluko (oma-)']
-'bomb': [v, 'mboma (o)', 'mbomba (o)'] 
-'borrow':['hehela (e) ']
-'box': [V, ' mbokisa']
-'brackish': ['big brackish spot =',' oshipale (ii-)'] 
-'breathe': [ 'fudha']
-'breathing: [' iifudho',' omufudho (omi-) ']
-'breed': [ v, ' kola',' He breeds dogs',' Okwa kola oombwa']
-'breeding: ['ekolo'] 
-'brew': ['hanga', 'dhunga (u) ']
-'bright': [' –yelele', '-adhjm'] 
- 'brindled': ['gnu oshikandagula (ii-)', 'ompugulu (oo-)']
-'bring':[' eta',' bring  back =',' galula','  bring  up=','  tekula','  bring to somebody =','etela (e)']
-'bringing': ['eeto'] 
-'Britain': ['Britania']
-'British Cabinet':['Okabinete yaBntania'] 
-'British Isles':[' Oontuntu dhaBritania ']
-'Briton': ['Omubritania (Aa-) ']
-'broadcast':['tuma mombepo'] 
-'broadcasting': ['etumo mombepo'] 
-'brochure': ['obroshure'] 
-'broken': ['tanduka',' tatuka',' teka']
-'broom': [' oluhwati (omalu-)',' olutiati (omalu-)','oshikombe (ii-)',' grass broom=',' oluhwati lwomwiidhi','oluhwati Iwoohozi'] 
-'brother': ['omumwayina (aa-)', 'mbuluta (-, oo-)',' half brother =',' omuinwaho (aamw-)'] 
-'brown': ['-ndjimbi',' light brown –hull',' –mbarnbi']
-'brownsel': ['omukolokoshi (aa-)] 
-'bubble': ['ombimbwi (oo-)'] 
-'bubbling': [ '(noise of porridge or meat cooking) kwakwata',' gwagwata']
-'bubonic': [ 'plague uuvu wombuku']
-'bucket': ['eyemele (oma-)', 'eeine!e (oma-) etenga (oma-)'] 
-'buckle': ['ompate (00-)']
-'bud':[ v,'shena (e) terida (e) ']
-'edible': ['edible=',' ongehu (oo-)'] 
-'bulge': ['umbuka',' His eyes bulgecL','Omeho ge ogu umbuka mo'] 
-'bull': ['ontsenzi (oo-)',' oldish bull=',' ekulutsezi (oma-)','bullet oholo (oo-)'] 
-'bulletin': ['ombuletine ']
-'bump':[' (calf a cow) ','nguma (u)',' puma (u),' Id,'So that you may not bump your feet against a stone','  Opo waa pume oompadhi dhoye komamanya'] 
-'bump' : ['(on the head)',' ombole (oo-)]
-'bumping': [' erigwandjulo (oma-)'] 
-'bunch': ['ehila (oma-) ']
-'bundle': ['oshihampi (ii-)',' oshipandi (ii-)',' bundles of  firewood iihampi yiikuni', ' oshihwali (ii-)',' small bundle=',' okamita (uu-)',' okapandi (uu-)', 'okahampi (uu-)']
-'burial':  ['efumbiko (oma-)',' efumviko (oma-)',' epako (oma-) ']
-'burn': ['fika (e)','lilika (e)','lunguna, pya (p1)',' The fire burns the paper','Omuhlo otagu like ombapila',' The meat burns, Onyaina otayi lunguna',' The  fire burns. Omulilo otagu pi']
-'burn-marks': ['oondjota']
-'burr': [' (in wood)',' oshitholongonyo (ii-)'] 
-'burrow': [' omvugo (oo-)']
-'bursary': ['iimaliwa', 'yokwiilongitha ']
-'burst': ['topa', 'tenda (e)']
-'bury': ['fumbika (e)', 'fumvika (e) ']
-'bus': ['ekambamba (oma-)', 'ombesa (oo-)'] 
-'bush': ['oshiheke (ii-)',' oshihwa (ii-)']
-'thick': [thick=',' omuthitu (omi-)', 'okuti (omaku-)'] 
-'busy': ['sikuuka',' keep oneself busy=',' ipyakidhila (e)'] 
-'but': ['ihe', 'ndele',' The owner hit him but  it did not help=','  Mwene okwe ka dhenge ihe inashi kwatha sha']
-'butcher': [' omurseli (aa-)']
-'butchery': ['oshilahite (ii-) ']
-'butter': [ 'omagadhi',' ombuta (oo-)']
-'butterfly': ['embiilimbili (om4-)',' okambiimbili (uu-) ']
-'buttock': ['etako (oma-)'] 
-'button': [ N,' ombandi (oo-)']
-'button':[V ,' pata ']
-'buy': ['landa'] 
-'buyer': ['omulandi (aa-)'] 
-'buying':['elando (oma-)', 'okulanda']
-'by':[' k(u-)',' The work is done by father=','lilonga oya longwa kutate]
-'bypass': ['kunkula', 'kunduluka', 'dhingolok',' bypassing ekunkulo (oma-)']
-
-         
         }
 
 
@@ -425,7 +322,7 @@ verbs = {'find': ['adha'], 'found': ['adhika'], 'shine': ['ota dhi adhima'], 'sh
          'murders': 'oha dhipaga', 'murdering': 'ota dhipanga', 'murdered': 'okwa dhipaga',
          'was murdered': 'okwa dhipagwa',
          'kill': 'dhipaga', 'kills': 'oha dhipaga', 'killing': 'ota dhipanga', 'killed': 'okwa dhipaga', 'was killed':
-         'okwa dhipagwa', 'tie a knot': 'dhitika', 'tied a knot': 'okwa dhitika', 'brew': 'dhunga',
+         'okwa dhipagwa', 'tie a knot': 'dhitika', 'tied a knot': 'okwa dhitika', 
          'brews': 'oha dhungu', 'brewing': 'ota dhungu', 'brewed': 'okwa dhunga', 'lean against': 'egamena k',
          'leans against': 'okwa egamene k', 'leaned against': 'okwa egamena k', 'leaning against': 'okwa egamena k',
          'open the': 'egulula', 'opened the': 'okwa egulula', 'is opened': 'ogwa eguluka',
@@ -471,13 +368,13 @@ verbs = {'find': ['adha'], 'found': ['adhika'], 'shine': ['ota dhi adhima'], 'sh
          'ota fekele', 'we"re suspecting': 'ota tu fekele', 'they"re suspecting': 'ota ya fekele', 'he"s suspecting':
          'ota fekele', 'she"s suspecting': 'ota fekele', 'sniff': 'fenya', 'he sniffed': 'okwa fenye', 'she sniffed':
          'okwa fenye', 'he sniffs': 'oha fenye', 'she sniffs': 'oha fenye', 'I sniff': 'oha ndi fenye', 'pay tax':
-         'fendela', 'take a snuff': 'fenya', 'burn': 'fika', 'he burned': 'okwa fika po', 'she burned': 'okwa fika po',
+         'fendela', 'take a snuff': 'fenya', 'he burned': 'okwa fika po', 'she burned': 'okwa fika po',
          'they burned': 'oya fika po', 'it burned': 'osha pya po', 'is burning': 'ota li pi', 'tear off': 'fola',
-         'torn off': 'okwa fola', 'breathe': 'fudha', 'he is breathing': 'ota fudha', 'she is breathing': 'ota fudha',
+         'torn off': 'okwa fola', 'he is breathing': 'ota fudha', 'she is breathing': 'ota fudha',
          'he is not breathing': 'it a fudha', 'she is not breathing': 'ita fudha', 'he is panting': 'ota fudhagana',
          'she is panting': 'ota fudhagana', 'he is not panting': 'it a fudhagana', 'she is not panting':
          'ita fudhagana', 'he dug a hole': 'okwa fula oshilambo', 'is digging': 'ota fulu', 'boils': 'fuluka',
-         'has boiled': 'oga fuluka', 'is boiling': 'ota ga fuluka', 'bury': 'fumbika', 'buries': 'okwa fumbike',
+         'has boiled': 'oga fuluka', 'is boiling': 'ota ga fuluka', 'buries': 'okwa fumbike',
          'was buried': 'okwa fumbikwa', 'burying': 'fumbike', 'lying': 'fundju', 'he lies': 'oha fundju',
          'she lies': 'oha fundju', 'they lie': 'oha ya fundju', 'abbreviate':
          'fupipika', 'shorten': 'fupipika', 'make shorter': 'fupipika', 'abbreviated': 'fupipike', 'abbreviating':
@@ -523,7 +420,31 @@ verbs = {'find': ['adha'], 'found': ['adhika'], 'shine': ['ota dhi adhima'], 'sh
          ['konda (o)'], 'baptise': ['shasha'], 'bark' : ['gwedha'], 'barter':  ['landakanitha', 'pingakanitha'],
          'bear': ['vala', 'humbata', 'bear fruit = ', 'ima'], 'beat': ['thekula', 'dhengagula', 'dhenga (e)', 
          'beat a drum = ', 'hika', 'heart beat = ', 'tuna', '(win)', 'vule'], 'beckon':  ['lapa'],
-         'beg': ['hehela', 'indila (e)', 'heka (e)', 'galikana'], 'beautify': ['opaleka (e)']
+         'beg': ['hehela', 'indila (e)', 'heka (e)', 'galikana'], 'beautify': ['opaleka (e)'], 'broadcast':
+         ['tuma mombepo'], 'build': ['tunga (u)'], 'branch off': ['puguma'], 'brake': ['mbilika (e)'], 'break':
+         ['pambula', 'tatula', 'teya (e)', 'tokola',' topola',' break down = ', 'kumuna', 'ngumuna', 
+         'break open = ', 'hwaga', 'break loose = ', 'gwaya'], 'behave': ['ihumbata'], 'begin': ['tameka (e)',
+         'vunda (u)'], 'believe': ['itaala'], 'belong': ['li', 'kala'], 'bellow': ['(cattle)', 'ula (u)'],
+         'betray': ['gwaaleka (e)', 'kengelela (e)'], 'bewitch': ['tikila (e)', 'loga (o)'], 'billow out': 
+         ['tuwalala'], 'birth': ['give birth = ', 'vala', 'give birth (people) = ', 'pulumutha', 'birth of twins = ',
+         'epaha', 'premature birth = ', 'ponona'], 'bisect': ['tateka (e)'], 'bite': ['lumata', 'komona', 
+         'bite one''s lips = ', 'mata'], 'blacken': ['luudhika (e)', 'nyateka (e)'], 'blackmail': ['thina'],
+         'blast': ['topa'], 'blaze': ['eye (oma-)'], 'bleat': ['lila (i)'], 'bleed': ['hiha'], 'blind': 
+         ['toga (o)'], 'block': ['keelela (e)'], 'blow': ['blow grain of sand from the eye = ',
+         'fugula', ' blow nose =', 'pemba', 'pepa'], 'board': ['menekela (e) '], 'boastful': ['person', 'otyaka (oo-)'],
+         'boil': ['fuluka'], 'bomb': ['mboma (o)', 'mbomba (o)'], 'borrow': ['hehela (e)'], 'box': ['mbokisa'],
+         'breathe': ['fudha'], 'breed': ['kola', 'He breeds dogs. = ', 'Okwa kola oombwa.'], 'brew': ['hanga', 
+         'dhunga (u)'], 'bring': ['eta', 'bring  back = ', 'galula', 'bring up = ', 'tekula', 'bring to somebody = ',
+         'etela (e)'], 'bulge': ['umbuka', 'His eyes bulged. = ', 'Omeho ge ogu umbuka mo.'], 'bump': 
+         ['(calf a cow)', 'nguma (u)', 'puma (u),', 'So that you may not bump your feet against a stone = ',
+         'Opo waa pume oompadhi dhoye komamanya'], 'burn': ['fika (e)', 'lilika (e)', 'lunguna', 'pya (pi)',
+         'The fire burns the paper. = ', 'Omuhlo otagu fike ombapila', 'The meat burns. = ', 'Onyaina otayi lunguna.',
+         'The  fire burns. = ',  'Omulilo otagu pi.'], 'burst': ['topa', 'tenda (e)'], 'bury': ['fumbika (e)', 
+         'fumvika (e) '], 'button':['pata'], 'buy': ['landa'], 'bypass': ['kunkula', 'kunduluka', 'dhingoloka'],
+         'bend': ['petama', 'ntilika (e)', 'bend over/foreward = ', 'petamena (e) komeho', 'ntilika (e)',
+         'He bends the palm leaf branch. = ', 'Ota ntilike epokolo.', 'Bend the knee. = ', 'Tifula.',
+         'bend down = ', 'gonyona'], 'bud':['shena (e)', 'tenda (e)']
+
 
          }
 
@@ -542,8 +463,16 @@ adjectives = {'all': 'adhihe', 'delirious': 'adhuuka', 'whole': 'aguhe', 'suprem
               'attractive woman = ', 'omukiintu ta hokitha', 'attractive game = ', 'uudhano ta wu hokitha'],
               'awake': ['penduka', 'papudhuka'], 'awar': ['shi', 'nongela'], 'bad': ['(food)', 'ha (hi)', 
               'The food becomes bad. = ', 'likulya otayi hi.', '-nayi'], 'beautiful' : ['opala',' yogoka',
-              'mbindili', 'nawanawa'],
-             
+              'mbindili', 'nawanawa'], 'blind': ['become blind = ', ' tsika', 'I am blind',' Onda tsika', 
+              'blind person=',' omuposi (aa-)'], 'brave': ['pendapala'], 'better': ['hwepo', 
+              'It is better for them to go into the woods. = ', 'Hwepo ya ye miihwa.'], 'big': 
+              ['mbwakuli', '-nene'], 'bigger': ['vule muunene'], 'biggest': ['vule ayihe muunene'], 'bitter': 
+              ['lula (u)', '–lulu', 'nyenya'], 'black': ['luudhe'], 'blue': ['mbulau'], 'blunt': ['simpa (i)',
+              'blunt knife = ', 'ombele ya simpa'], 'brackish': ['big brackish spot = ', 'oshipale (ii-)'],
+              'bright': ['–yelele', '-adhimi'], 'brindled gnu': ['oshikandagula (ii-)', 'ompugulu (oo-)'],
+              'broken': ['tanduka', 'tatuka', 'teka'], 'brown': ['-ndjimbi', 'light brown = ', '- hull', 
+              '–mbambi'], 'busy': ['sikuuka', 'keep oneself busy = ', 'ipyakidhila (e)'], 'beloved': 
+              ['omuholike (aa-)']
               }
 
 
@@ -555,7 +484,9 @@ prepositions = {'about': ['search about', 'petapeta', 'thimbilathjmbjja (e)'], '
                 lyetu oli li konima.'], 'against': ['pooha [dh(a-)]', 'Stand against the wall.',
                 'Thikama pooha dhekuma.'], 'among': ['mokati[k(a -)]'], 'amongst': ['mokati'], 'around': 
                 ['momudhingoloko'], 'aside': ['kombinga [y(a-)]', 'stand aside = ', 'engena (e)'], 
-                'at': ['p(u-)']
+                'at': ['p(u-)'], 'between': ['pokati [k(a-)]'], 'by':[' k(u-)', 'The work is done by father. = ',
+                'Iilonga oya longwa kutate.'], 'behind': ['konima'], 'below': ['pevi']
+
                 }
 
 adverbs = {'only': 'ageke', 'everywhere': 'apehe', 'please': 'alikana', 'apparently': 'aniwa', 'yes': 'eeno',
@@ -565,7 +496,10 @@ adverbs = {'only': 'ageke', 'everywhere': 'apehe', 'please': 'alikana', 'apparen
            ['nando', 'nonando', 'Although it was like that, they did not find the keys again. = ', 'Nando ongawo,\
            iipatululo inaa ke yi mona we.'], 'always': ['aluhe'], 'anxiously': ['nyulukuta'],  'anyway': ['ando'],
            'as': ['ngaashi', 'as far as = ', 'sigo', 'as soon as = ', 'hela tuu'], 'approximately':
-           ['konyala', 'lunga', 'lwopo'],  'away': ['yi', 'ya'], 'badly': ['nayi']
+           ['konyala', 'lunga', 'lwopo'],  'away': ['yi', 'ya'], 'badly': ['nayi'], 'both': ['-lwe', '–ali'], 
+           'besides': ['nokuli'], 'betimes': ['kuyele', 'pethimbo'] 
+
+
            }
 
 pronouns = {'they': 'yo', 'he': 'ye', 'she': 'ye', 'they are': 'ota ya', 'we are': 'ota tu', 'he is': 'ota',
@@ -574,7 +508,8 @@ pronouns = {'they': 'yo', 'he': 'ye', 'she': 'ye', 'they are': 'ota ya', 'we are
             'other things': 'iinima yilwe', 'any': ['kehe'], 'anyone': ['kehe gumwe'], 'anything': ['kehe shimwe']
             }
 
-interjections = {'oh': 'akutu', 'poor thing': 'akutu hewa'}
+interjections = {'oh': ['akutu'], 'poor thing': ['akutu hewa'], 'beware': ['Angala', 'Kotoka']
+}
 
 determiners = {'all': ['ayehe', 'ayihe', 'adhihe', 'agehe', 'all the people = ', 'aantu ayehe.', 'all chairs = ',
                'iipundi ayihe'], 'two': ['yaali'], 'another': ['-kwawo', '-lwe'],
@@ -584,7 +519,9 @@ particles = {'no': 'aawe'}
 
 conjunctions = {'and': ['e', 'na', 'He broke into the house and took one stole one phone. = ',
                 'Okwa iteyele megumbo e ta yaka mo ongodhi yimwe.', 'Josef and Maria = ', 'Josef naMaria'],
-                'because': ['oshoka', 'shaashi', 'shoka'], 'before': ['manga','komeho']
+                'because': ['oshoka', 'shaashi', 'shoka'], 'before': ['manga','komeho'], 'but': ['ihe', 'ndele',
+                'The owner hit him but it did not help. = ', ' Mwene okwe ka dhenge ihe inashi kwatha sha.']
+
                 }
 
 phrases = {'according to': ['pa-', 'according to nature = ', 'paunshitwe'], 'try on': ['iyeleka'], 'on account of':
