@@ -39,11 +39,11 @@ nouns = {'lightning': 'olwaadhi', 'lightnings': 'oombadhi', 'scar': 'oshaadhi', 
          'months': 'oomwedhi', 'end of the month': 'eshulilo lyomwedhi', 'at the end of the month':
          'peshulilo lyomwedhi', 'close the door': 'edhila omweelo', 'the door is closed': 'omweelo ogwa edhila',
          'closed the door': 'okwa edhila omweelo',
-         'chance': 'olweedhe', 'first born': 'osheeli', 'door': 'osheelo', 'doors': 'omiyelo', 'entrance': 'osheelo',
+         'first born': 'osheeli', 'door': 'osheelo', 'doors': 'omiyelo', 'entrance': 'osheelo',
          'traveler': 'omweendi', 'travelers': 'aayendi', 'traveller': 'omweendi', 'travellers': 'aayendi',
          'journey': 'olweendo', 'madam': 'efolo', 'thorn': 'okwega', 'thorns': 'omakwega', 'dagger': 'omwele',
          'daggers': 'oomwele', 'knife': 'ombele', 'knives': 'oombele', 'buckets': 'omaemele',
-         'cemetery': 'omayendo', 'graveyard': 'omayendo', 'sugar cane': 'omwenge', 'sugar canes': 'oomwenge', 'lizard':
+         'graveyard': 'omayendo', 'sugar cane': 'omwenge', 'sugar canes': 'oomwenge', 'lizard':
          'eengele', 'lizards': 'omaengele', 'fog': 'oshientsi', 'feather': 'olwenya', 'feathers': 'omalwenya',
          'dry season': 'okwenye', 'dry seasons': 'okwenye', 'life': 'onkalamwenyo', 'soul': 'omwenyo',
          'lives': 'eenkalamwenyo', 'animals': 'iinamwenyo', 'Saturday': 'Olyomakaya', 'on Saturday': 'mOlyomakaya',
@@ -283,16 +283,15 @@ nouns = {'lightning': 'olwaadhi', 'lightnings': 'oombadhi', 'scar': 'oshaadhi', 
          ['etako (oma-)'], 'button': ['ombandi (oo-)'], 'bump': ['(on the head)', 'ombole (oo-)'],  'behind': 
          ['okatunya (uu-)', 'etako (oma-)'], 'cabinet': ['oskopa', 'osikopa (oo)', 'okabinete'],  'cake': 
          ['oshikuki (ii-)', 'dry vegetable cake=', 'ekaka (oma-)'], 'calabash': 
-         ['ombago (oo-)', 'oshikola (ii-)', 'ompamba', 'ompindo'], 'calculation': ['eyalulo'], 'calender': 
+         ['ombago (oo-)', 'oshikola (ii-)', 'ompamba', 'ompindo'], 'calender': 
          ['okalindela (uu-)'], 'calf': ['ontana (oo-)', 'okatana (uu-)'], 'camel': ['ongamelo (oo-)'], 
-         'camelthorn': ['omuthiya (omi-)'], 'camera': ['efano (oma-) lyokuthaneka'], 'camp': ['ontanda (oo-)', 
-         'okaxnba (oo-)', 'set up cmp= ', 'yunga ontanda'], 'Canada': ['Kanada'], 'Canadian': ['Omukanada (Aa-)'],
+         'camelthorn': ['omuthiya (omi-)'], 'camera': ['efano (oma-) lyokuthaneka'], 'Canada': ['Kanada'], 'Canadian': ['Omukanada (Aa-)'],
          'canal': ['omukanka (omi-)'], 'Canary': ['Blackthroated canary= ', 'namukuku (-, oo-)'], 'cancellation': 
          ['ekaleko (oma-)', 'the cancellation of the meeting= ', 'ekaleko lyoshigongi'], 'cancer': ['okanker(a)', 
          'ondhiya (oo-)'], 'cannikin': ['okakana (uu)'], 'cannon': ['ekanona (oma-)'], 'cap': ['okagala (uu-)'],
          'capital': ['iimaliwa'], 'capitalism': ['uukapitali'], 'capitalist': ['omukapitali (aa-)'], 
          'capriciousness': ['omanganga', 'omanyami'], 'captain': ['kapitiya (oo-)'], 'captivity': ['uukwatwa', 
-         'uupongekwa'], 'calculation': ['eyalulo'], 'camp': ['okamba (oo-)'], 'car': ['oshihauto (ii)'],
+         'uupongekwa'], 'calculation': ['eyalulo'], 'camp': ['okamba (oo-)', 'ontanda (oo-)'], 'car': ['oshihauto (ii)'],
          'carbon dioxide': ['onkwakala (ofudhwambepo)'], 'card': ['okakalata (uu-)'], 'cardboard': ['oshipakete (ii-)'],
          'caring': ['esiloshimpwiyu (oma-)'], 'carpenter': ['omuhongi gwiipilangi', 'kapindela'], 'carpet': 
          ['ombanza (oo-)'], 'carrier': ['omuhumbati (aa-)'], 'carrot': ['okanakamundesha (uu-)'], 'case': 
@@ -302,44 +301,16 @@ nouns = {'lightning': 'olwaadhi', 'lightnings': 'oombadhi', 'scar': 'oshaadhi', 
          'catastrophies': ['iihuna'], 'chaff': ['omanyami', 'olungu (omalu-)', 'etutu', 'chaff dust', 'one (oo-)'],
          'chain': ['elyenge (oma-)'], 'chair': ['oshipundi (ii-)'], 'chairperson': [' omunashipundi (aa-)'], 'chalk': 
          ['ompya (oo-)'], 'chameleon': ['ethimbithimbi (oma-)'], 'champion': ['enyakwa (oma-)'], 'chance': ['ompito (oo-)', 
-         'olweedhe (oma-)'], 'chandelier': ['oshihukikwanyeka (ii-)'], 'centre': ['osenta (oo-)'], 'century': 
+         'olweedhe (oma-)'], 'chandelier': ['oshihukikwanyeka (ii-)'], 'centre': ['osenta (oo-)', 'pokati'], 'century': 
          ['oomvula ethele'], 'catcher': ['omukwati (aa-)'], 'catholic': ['okatolika (uu-)'], 'cattle': ['oongombe', 
          'cattle pen= ', 'oshigunda (ii-)',  'cattle post= ', 'ohambo (oo-)'], 'cauliflower': ['ombogangala (oo-)'],
          'cart': ['okatemba (uu-)'], 'caruncle': ['okakunde (uu-)'], 'cavity': ['ekololo (oma-)'], 'ceiling': 
          ['ontala (oo-)'], 'cement': ['osamende (oo-)'], 'cemetery': ['eendo (omayendo)'], 'census': ['eyalulo lyaantu'],
          'cent': ['osenda (oo-)'], 'centipede': ['embalangandja (oma-)'], 'change': ['elunduluko (oma-)', 
-         'elundululo (oma-)', 'oshendja'],  'chapter': ['ontopolwa (oo-)'], 'character': ['uukwatya (omau-)'], 
+         'elundululo (oma-)', 'oshendja'],  'chapter': ['ontopolwa (oo-)'], 'character': ['uukwatya (omau-)'],
+         'carrying skin': ['ondhikwa (oo-)'], 'central committee': ['ongundumutima (oo-)'], 
 
-'calculate': ['yalula'] 
-'call': ['ithana', 'igidha', 'call out=', 'igidha',  'call for help=', 'kuga(u)'] 
-'calm': ['ngungila (e)', 'calm down=', 'mweneka (e)'] 
-'camp':  'v,  'yunga (u)'] 
-'can': ['wapa', 'vula (u)', 'After some time I was tired and couldfl 't run anymore', 'Konima yethimbo onda vulwa itandi wapa we okumatuka',  'I can do my work Otandi vulu okulonga oshilonga shandje']
-'cancel': ['kansela']
-'can't': ['itashi vulika'] 
-'cannot vide can't 
-'capture': ['kwata'] 
-'captured': ['sha kwatwa'] 
-'care': ['hunga', 'sa oshimpwiyu',  'caring of ill people ehungo lyaavu'] 
-'careful': ['oshimpwiyu (ii-)'] 
-'carefully': ['nekotoko', 'nosbimpwiyu']
-'carry': ['humbata', 'leka (e)', 'tumba (u)', 'carry on back (piggyback)=', 'kwiinina (e)']
-'carry out':  gwanitha'] 
-'carrying': ['ehumbato (oma-)'] 
-'carrying skin': ['ondhikwa (oo-)'] 
-'carve out': ['nega'] 
-'carving: ['(on stick) etakelo (oma-)'] 
-'case': ['oshiketha (ii-)'] 
-'catch': ['kwata', 'feguLa', 'akula', 'luga (u)', shongola', yula (u)'] 
-'cause': ['ningitha'] 
-'cave in': ['kumuka', 'ngumuka'] 
-'central': ['pokati', 'shopokati'] 
-'central committee': ['ongundumutinia (oo-) centre (middle) pokati [k(a-)'] 
-'certain': ['ontumba']
-'change': ['v, 'lundulula', 'shitula']
-'changeable': ['mpinyuka'] 
-'cackle': 
-         ['kokola', 'tetena'],
+
 
         }
 
@@ -501,8 +472,16 @@ verbs = {'find': ['adha'], 'found': ['adhika'], 'shine': ['ota dhi adhima'], 'sh
          'fumvika (e) '], 'button':['pata'], 'buy': ['landa'], 'bypass': ['kunkula', 'kunduluka', 'dhingoloka'],
          'bend': ['petama', 'ntilika (e)', 'bend over/foreward = ', 'petamena (e) komeho', 'ntilika (e)',
          'He bends the palm leaf branch. = ', 'Ota ntilike epokolo.', 'Bend the knee. = ', 'Tifula.',
-         'bend down = ', 'gonyona'], 'bud':['shena (e)', 'tenda (e)']
-
+         'bend down = ', 'gonyona'], 'bud':['shena (e)', 'tenda (e)'], 'calculate': ['yalula'], 'call': 
+         ['ithana', 'igidha', 'call out= ', 'igidha',  'call for help= ', 'kuga(u)'], 'calm': ['ngungila (-e)', 
+         'calm down= ', 'mweneka (e)'], 'camp':  ['yunga (-u)'], 'can': ['wapa', 'vula (-u)', 
+         'I can write with my foot. =', 'otandi vulu oku shanga nompadhi'], 'cancel': ['kansela', 'kaleka'], 
+         'cannot': ['itashi vulika'], 'capture': ['kwata'], 'care': ['hunga', 'sa oshimpwiyu',  
+         'take care of the baby.= ', 'sila okanona oshimpwiyu.'], 'carry': ['humbata', 'leka (e)', 'tumba (u)',
+         'carry on the back= ', 'kwiinina (-e)', 'carry out= ',  'gwanitha'], 'carve out': ['nega'], 'catch': 
+         ['kwata', 'feguLa', 'akula', 'luga (-u)', 'yula (-u)'], 'cause': ['ningitha'], 'cave in': 
+         ['kumuka', 'ngumuka'], 'change': ['lundulula', 'shitula'], 'cackle': ['kokola', 'tetena']
+         
 
          }
 
@@ -530,7 +509,9 @@ adjectives = {'all': 'adhihe', 'delirious': 'adhuuka', 'whole': 'aguhe', 'suprem
               'bright': ['–yelele', '-adhimi'], 'brindled gnu': ['oshikandagula (ii-)', 'ompugulu (oo-)'],
               'broken': ['tanduka', 'tatuka', 'teka'], 'brown': ['-ndjimbi', 'light brown = ', '- hull', 
               '–mbambi'], 'busy': ['sikuuka', 'keep oneself busy = ', 'ipyakidhila (e)'], 'beloved': 
-              ['omuholike (aa-)']
+              ['omuholike (aa-)'], 'careful': ['sa oshimpwiyu'], 'central': ['pokati', 'shopokati'], 'certain': 
+              ['ontumba'], 'changeable': ['ha shi vulu oku lunduuka'] 
+
               }
 
 
@@ -555,7 +536,8 @@ adverbs = {'only': 'ageke', 'everywhere': 'apehe', 'please': 'alikana', 'apparen
            iipatululo inaa ke yi mona we.'], 'always': ['aluhe'], 'anxiously': ['nyulukuta'],  'anyway': ['ando'],
            'as': ['ngaashi', 'as far as = ', 'sigo', 'as soon as = ', 'hela tuu'], 'approximately':
            ['konyala', 'lunga', 'lwopo'],  'away': ['yi', 'ya'], 'badly': ['nayi'], 'both': ['-lwe', '–ali'], 
-           'besides': ['nokuli'], 'betimes': ['kuyele', 'pethimbo'] 
+           'besides': ['nokuli'], 'betimes': ['kuyele', 'pethimbo'], 'carefully': ['nekotoko', 'noshimpwiyu']
+
 
 
            }
