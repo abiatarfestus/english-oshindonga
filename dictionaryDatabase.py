@@ -572,6 +572,6 @@ phrases = {'according to': ['pa-', 'according to nature = ', 'paunshitwe'], 'try
 #    print(key)
 # print(len(nouns_things))
 
-# if it's short passage, look for passage content from dictionary
+# if it's a short passage, look for passage content from dictionary
 # if it's a long passage, look for dictionary content (phrase and word(starting with the longest)) from the passage
 # search only withing the remaining untranslated elements?
