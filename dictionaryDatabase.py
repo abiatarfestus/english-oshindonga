@@ -493,7 +493,7 @@ adjectives = {'all': 'adhihe', 'delirious': 'adhuuka', 'whole': 'aguhe', 'suprem
               ['omufupi'], 'are short': ['aafupi'], 'is tall': ['omule'], 'are tall': ['aale'], 'is vain':
               ['omufuuli'], 'absent': ['ke po', 'a faula'], 'accidental': ['shopapuko'], 'aesthetic':
               ['uuwopali (omau-)'], 'alkaline': ['paalikali', 'pashimongwa'], 'angry': ['geya (e)'], 'already':
-              ['nokuli', 'I took it from my pocket already. = ' 'Onde yi hili mo nokuli mondjato.'], 'lternative':
+              ['nokuli', 'I took it from my pocket already. = ', 'Onde yi hili mo nokuli mondjato.'], 'lternative':
               ['epingeno(oma -)'], 'amazing': ['-kuinithi'], 'ancient': ['-kulu'], 'armed': ['(to be armed)',
               'homata', 'armed soldiers = ', 'aakwaita ya homata'], 'available': ['shili po'], 'astonished':
               ['kumwa'], 'astounding': ['-kumithi'], 'atomic': ['paatoma'], 'attractive': ['hokitha',
